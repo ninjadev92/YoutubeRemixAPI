@@ -1,8 +1,12 @@
 var express = require('express');
-var router = express.Router();
-var subtitleCtrl = require('../controllers/subtitle.controller')
+var downloadRoute = require('./download.route');
+var cutvideo = require('./cutvideo.route');
+var parseVideo = require('./parse.route');
 
-/* GET home page. */
-router.get('/download', subtitleCtrl.scraper);
+const router = express.Router();
 
-module.exports = router;
+router.use('/download', downloadRoute);
+router.use('/cut', cutvideo);
+router.use('/parse', parseVideo);
+
+module.exports = router

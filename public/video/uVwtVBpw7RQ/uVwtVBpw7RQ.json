@@ -1,0 +1,5323 @@
+[
+    {
+        "start": 210,
+        "end": 1330,
+        "part": "[Music]",
+        "words": [
+            {
+                "word": "music"
+            }
+        ]
+    },
+    {
+        "start": 210,
+        "end": 1330,
+        "part": "",
+        "words": [
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 1330,
+        "end": 1340,
+        "part": "[Music]",
+        "words": [
+            {
+                "word": "music"
+            }
+        ]
+    },
+    {
+        "start": 1340,
+        "end": 4910,
+        "part": "no js' or note is an open source and",
+        "words": [
+            {
+                "word": "no",
+                "time": 2340
+            },
+            {
+                "word": "js'",
+                "time": 2790
+            },
+            {
+                "word": "or",
+                "time": 3000
+            },
+            {
+                "word": "note",
+                "time": 3300
+            },
+            {
+                "word": "is",
+                "time": 3600
+            },
+            {
+                "word": "an",
+                "time": 3959
+            },
+            {
+                "word": "open",
+                "time": 4410
+            },
+            {
+                "word": "source",
+                "time": 4620
+            },
+            {
+                "word": "and"
+            }
+        ]
+    },
+    {
+        "start": 4910,
+        "end": 4920,
+        "part": "",
+        "words": [
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 4920,
+        "end": 8120,
+        "part": "no js' or note is an open source and cross-platform runtime environment for",
+        "words": [
+            {
+                "word": "no"
+            },
+            {
+                "word": "js'"
+            },
+            {
+                "word": "or"
+            },
+            {
+                "word": "note"
+            },
+            {
+                "word": "is"
+            },
+            {
+                "word": "an"
+            },
+            {
+                "word": "open"
+            },
+            {
+                "word": "source"
+            },
+            {
+                "word": "and"
+            },
+            {
+                "word": "cross-platform",
+                "time": 5580
+            },
+            {
+                "word": "runtime",
+                "time": 6680
+            },
+            {
+                "word": "environment",
+                "time": 7680
+            },
+            {
+                "word": "for"
+            }
+        ]
+    },
+    {
+        "start": 8120,
+        "end": 8130,
+        "part": "cross-platform runtime environment for",
+        "words": [
+            {
+                "word": "cross-platform"
+            },
+            {
+                "word": "runtime"
+            },
+            {
+                "word": "environment"
+            },
+            {
+                "word": "for"
+            }
+        ]
+    },
+    {
+        "start": 8130,
+        "end": 11089,
+        "part": "executing JavaScript code outside of a",
+        "words": [
+            {
+                "word": "executing",
+                "time": 8790
+            },
+            {
+                "word": "javascript",
+                "time": 8970
+            },
+            {
+                "word": "code",
+                "time": 9840
+            },
+            {
+                "word": "outside",
+                "time": 10769
+            },
+            {
+                "word": "of",
+                "time": 11010
+            },
+            {
+                "word": "a"
+            }
+        ]
+    },
+    {
+        "start": 11089,
+        "end": 11099,
+        "part": "",
+        "words": [
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 11099,
+        "end": 13910,
+        "part": "executing JavaScript code outside of a browser quite often we use no to build",
+        "words": [
+            {
+                "word": "executing"
+            },
+            {
+                "word": "javascript"
+            },
+            {
+                "word": "code"
+            },
+            {
+                "word": "outside"
+            },
+            {
+                "word": "of"
+            },
+            {
+                "word": "a"
+            },
+            {
+                "word": "browser",
+                "time": 11450
+            },
+            {
+                "word": "quite",
+                "time": 12450
+            },
+            {
+                "word": "often",
+                "time": 12690
+            },
+            {
+                "word": "we",
+                "time": 12990
+            },
+            {
+                "word": "use",
+                "time": 13019
+            },
+            {
+                "word": "no",
+                "time": 13349
+            },
+            {
+                "word": "to",
+                "time": 13410
+            },
+            {
+                "word": "build"
+            }
+        ]
+    },
+    {
+        "start": 13910,
+        "end": 13920,
+        "part": "browser quite often we use no to build",
+        "words": [
+            {
+                "word": "browser"
+            },
+            {
+                "word": "quite"
+            },
+            {
+                "word": "often"
+            },
+            {
+                "word": "we"
+            },
+            {
+                "word": "use"
+            },
+            {
+                "word": "no"
+            },
+            {
+                "word": "to"
+            },
+            {
+                "word": "build"
+            }
+        ]
+    },
+    {
+        "start": 13920,
+        "end": 17320,
+        "part": "back-end services also called api's or",
+        "words": [
+            {
+                "word": "back-end",
+                "time": 14759
+            },
+            {
+                "word": "services",
+                "time": 15269
+            },
+            {
+                "word": "also",
+                "time": 15540
+            },
+            {
+                "word": "called",
+                "time": 16020
+            },
+            {
+                "word": "api's",
+                "time": 16770
+            },
+            {
+                "word": "or"
+            }
+        ]
+    },
+    {
+        "start": 17320,
+        "end": 17330,
+        "part": "",
+        "words": [
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 17330,
+        "end": 20540,
+        "part": "back-end services also called api's or application programming interfaces these",
+        "words": [
+            {
+                "word": "back-end"
+            },
+            {
+                "word": "services"
+            },
+            {
+                "word": "also"
+            },
+            {
+                "word": "called"
+            },
+            {
+                "word": "api's"
+            },
+            {
+                "word": "or"
+            },
+            {
+                "word": "application",
+                "time": 18330
+            },
+            {
+                "word": "programming",
+                "time": 18590
+            },
+            {
+                "word": "interfaces",
+                "time": 19590
+            },
+            {
+                "word": "these"
+            }
+        ]
+    },
+    {
+        "start": 20540,
+        "end": 20550,
+        "part": "application programming interfaces these",
+        "words": [
+            {
+                "word": "application"
+            },
+            {
+                "word": "programming"
+            },
+            {
+                "word": "interfaces"
+            },
+            {
+                "word": "these"
+            }
+        ]
+    },
+    {
+        "start": 20550,
+        "end": 23240,
+        "part": "are the services that power our client",
+        "words": [
+            {
+                "word": "are",
+                "time": 20760
+            },
+            {
+                "word": "the",
+                "time": 20939
+            },
+            {
+                "word": "services",
+                "time": 21510
+            },
+            {
+                "word": "that",
+                "time": 21810
+            },
+            {
+                "word": "power",
+                "time": 22260
+            },
+            {
+                "word": "our",
+                "time": 22619
+            },
+            {
+                "word": "client"
+            }
+        ]
+    },
+    {
+        "start": 23240,
+        "end": 23250,
+        "part": "",
+        "words": [
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 23250,
+        "end": 25580,
+        "part": "are the services that power our client applications like a web app running",
+        "words": [
+            {
+                "word": "are"
+            },
+            {
+                "word": "the"
+            },
+            {
+                "word": "services"
+            },
+            {
+                "word": "that"
+            },
+            {
+                "word": "power"
+            },
+            {
+                "word": "our"
+            },
+            {
+                "word": "client"
+            },
+            {
+                "word": "applications",
+                "time": 23850
+            },
+            {
+                "word": "like",
+                "time": 24330
+            },
+            {
+                "word": "a",
+                "time": 24390
+            },
+            {
+                "word": "web",
+                "time": 24630
+            },
+            {
+                "word": "app",
+                "time": 24810
+            },
+            {
+                "word": "running"
+            }
+        ]
+    },
+    {
+        "start": 25580,
+        "end": 25590,
+        "part": "applications like a web app running",
+        "words": [
+            {
+                "word": "applications"
+            },
+            {
+                "word": "like"
+            },
+            {
+                "word": "a"
+            },
+            {
+                "word": "web"
+            },
+            {
+                "word": "app"
+            },
+            {
+                "word": "running"
+            }
+        ]
+    },
+    {
+        "start": 25590,
+        "end": 28160,
+        "part": "inside of a web browser or mobile app",
+        "words": [
+            {
+                "word": "inside",
+                "time": 26070
+            },
+            {
+                "word": "of",
+                "time": 26250
+            },
+            {
+                "word": "a",
+                "time": 26310
+            },
+            {
+                "word": "web",
+                "time": 26490
+            },
+            {
+                "word": "browser",
+                "time": 26699
+            },
+            {
+                "word": "or",
+                "time": 27210
+            },
+            {
+                "word": "mobile",
+                "time": 27510
+            },
+            {
+                "word": "app"
+            }
+        ]
+    },
+    {
+        "start": 28160,
+        "end": 28170,
+        "part": "",
+        "words": [
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 28170,
+        "end": 31339,
+        "part": "inside of a web browser or mobile app running on a mobile device these client",
+        "words": [
+            {
+                "word": "inside"
+            },
+            {
+                "word": "of"
+            },
+            {
+                "word": "a"
+            },
+            {
+                "word": "web"
+            },
+            {
+                "word": "browser"
+            },
+            {
+                "word": "or"
+            },
+            {
+                "word": "mobile"
+            },
+            {
+                "word": "app"
+            },
+            {
+                "word": "running",
+                "time": 28769
+            },
+            {
+                "word": "on",
+                "time": 29010
+            },
+            {
+                "word": "a",
+                "time": 29099
+            },
+            {
+                "word": "mobile",
+                "time": 29400
+            },
+            {
+                "word": "device",
+                "time": 29840
+            },
+            {
+                "word": "these",
+                "time": 30840
+            },
+            {
+                "word": "client"
+            }
+        ]
+    },
+    {
+        "start": 31339,
+        "end": 31349,
+        "part": "running on a mobile device these client",
+        "words": [
+            {
+                "word": "running"
+            },
+            {
+                "word": "on"
+            },
+            {
+                "word": "a"
+            },
+            {
+                "word": "mobile"
+            },
+            {
+                "word": "device"
+            },
+            {
+                "word": "these"
+            },
+            {
+                "word": "client"
+            }
+        ]
+    },
+    {
+        "start": 31349,
+        "end": 33799,
+        "part": "apps are simply what the user sees and",
+        "words": [
+            {
+                "word": "apps",
+                "time": 31529
+            },
+            {
+                "word": "are",
+                "time": 31830
+            },
+            {
+                "word": "simply",
+                "time": 32399
+            },
+            {
+                "word": "what",
+                "time": 32880
+            },
+            {
+                "word": "the",
+                "time": 33030
+            },
+            {
+                "word": "user",
+                "time": 33210
+            },
+            {
+                "word": "sees",
+                "time": 33570
+            },
+            {
+                "word": "and"
+            }
+        ]
+    },
+    {
+        "start": 33799,
+        "end": 33809,
+        "part": "",
+        "words": [
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 33809,
+        "end": 36290,
+        "part": "apps are simply what the user sees and interacts with they're just the surface",
+        "words": [
+            {
+                "word": "apps"
+            },
+            {
+                "word": "are"
+            },
+            {
+                "word": "simply"
+            },
+            {
+                "word": "what"
+            },
+            {
+                "word": "the"
+            },
+            {
+                "word": "user"
+            },
+            {
+                "word": "sees"
+            },
+            {
+                "word": "and"
+            },
+            {
+                "word": "interacts",
+                "time": 34620
+            },
+            {
+                "word": "with",
+                "time": 34770
+            },
+            {
+                "word": "they're",
+                "time": 35460
+            },
+            {
+                "word": "just",
+                "time": 35730
+            },
+            {
+                "word": "the",
+                "time": 35820
+            },
+            {
+                "word": "surface"
+            }
+        ]
+    },
+    {
+        "start": 36290,
+        "end": 36300,
+        "part": "interacts with they're just the surface",
+        "words": [
+            {
+                "word": "interacts"
+            },
+            {
+                "word": "with"
+            },
+            {
+                "word": "they're"
+            },
+            {
+                "word": "just"
+            },
+            {
+                "word": "the"
+            },
+            {
+                "word": "surface"
+            }
+        ]
+    },
+    {
+        "start": 36300,
+        "end": 38240,
+        "part": "they need to talk to some services",
+        "words": [
+            {
+                "word": "they",
+                "time": 36780
+            },
+            {
+                "word": "need",
+                "time": 36960
+            },
+            {
+                "word": "to",
+                "time": 37079
+            },
+            {
+                "word": "talk",
+                "time": 37320
+            },
+            {
+                "word": "to",
+                "time": 37530
+            },
+            {
+                "word": "some",
+                "time": 37710
+            },
+            {
+                "word": "services"
+            }
+        ]
+    },
+    {
+        "start": 38240,
+        "end": 38250,
+        "part": "",
+        "words": [
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 38250,
+        "end": 41510,
+        "part": "they need to talk to some services sitting on the server or in the cloud to",
+        "words": [
+            {
+                "word": "they"
+            },
+            {
+                "word": "need"
+            },
+            {
+                "word": "to"
+            },
+            {
+                "word": "talk"
+            },
+            {
+                "word": "to"
+            },
+            {
+                "word": "some"
+            },
+            {
+                "word": "services"
+            },
+            {
+                "word": "sitting",
+                "time": 38969
+            },
+            {
+                "word": "on",
+                "time": 39090
+            },
+            {
+                "word": "the",
+                "time": 39239
+            },
+            {
+                "word": "server",
+                "time": 39540
+            },
+            {
+                "word": "or",
+                "time": 39960
+            },
+            {
+                "word": "in",
+                "time": 40440
+            },
+            {
+                "word": "the",
+                "time": 40559
+            },
+            {
+                "word": "cloud",
+                "time": 40829
+            },
+            {
+                "word": "to"
+            }
+        ]
+    },
+    {
+        "start": 41510,
+        "end": 41520,
+        "part": "sitting on the server or in the cloud to",
+        "words": [
+            {
+                "word": "sitting"
+            },
+            {
+                "word": "on"
+            },
+            {
+                "word": "the"
+            },
+            {
+                "word": "server"
+            },
+            {
+                "word": "or"
+            },
+            {
+                "word": "in"
+            },
+            {
+                "word": "the"
+            },
+            {
+                "word": "cloud"
+            },
+            {
+                "word": "to"
+            }
+        ]
+    },
+    {
+        "start": 41520,
+        "end": 44209,
+        "part": "store data send emails or push",
+        "words": [
+            {
+                "word": "store",
+                "time": 41850
+            },
+            {
+                "word": "data",
+                "time": 42059
+            },
+            {
+                "word": "send",
+                "time": 43020
+            },
+            {
+                "word": "emails",
+                "time": 43469
+            },
+            {
+                "word": "or",
+                "time": 43680
+            },
+            {
+                "word": "push"
+            }
+        ]
+    },
+    {
+        "start": 44209,
+        "end": 44219,
+        "part": "",
+        "words": [
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 44219,
+        "end": 46940,
+        "part": "store data send emails or push notifications kick off workflows and so",
+        "words": [
+            {
+                "word": "store"
+            },
+            {
+                "word": "data"
+            },
+            {
+                "word": "send"
+            },
+            {
+                "word": "emails"
+            },
+            {
+                "word": "or"
+            },
+            {
+                "word": "push"
+            },
+            {
+                "word": "notifications",
+                "time": 45000
+            },
+            {
+                "word": "kick",
+                "time": 45690
+            },
+            {
+                "word": "off",
+                "time": 45870
+            },
+            {
+                "word": "workflows",
+                "time": 46410
+            },
+            {
+                "word": "and",
+                "time": 46680
+            },
+            {
+                "word": "so"
+            }
+        ]
+    },
+    {
+        "start": 46940,
+        "end": 46950,
+        "part": "notifications kick off workflows and so",
+        "words": [
+            {
+                "word": "notifications"
+            },
+            {
+                "word": "kick"
+            },
+            {
+                "word": "off"
+            },
+            {
+                "word": "workflows"
+            },
+            {
+                "word": "and"
+            },
+            {
+                "word": "so"
+            }
+        ]
+    },
+    {
+        "start": 46950,
+        "end": 50150,
+        "part": "on node is ideal for building highly",
+        "words": [
+            {
+                "word": "on",
+                "time": 47070
+            },
+            {
+                "word": "node",
+                "time": 48030
+            },
+            {
+                "word": "is",
+                "time": 48300
+            },
+            {
+                "word": "ideal",
+                "time": 48780
+            },
+            {
+                "word": "for",
+                "time": 48809
+            },
+            {
+                "word": "building",
+                "time": 49410
+            },
+            {
+                "word": "highly"
+            }
+        ]
+    },
+    {
+        "start": 50150,
+        "end": 50160,
+        "part": "",
+        "words": [
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 50160,
+        "end": 53270,
+        "part": "on node is ideal for building highly scalable data intensive and real-time",
+        "words": [
+            {
+                "word": "on"
+            },
+            {
+                "word": "node"
+            },
+            {
+                "word": "is"
+            },
+            {
+                "word": "ideal"
+            },
+            {
+                "word": "for"
+            },
+            {
+                "word": "building"
+            },
+            {
+                "word": "highly"
+            },
+            {
+                "word": "scalable",
+                "time": 50730
+            },
+            {
+                "word": "data",
+                "time": 51390
+            },
+            {
+                "word": "intensive",
+                "time": 51840
+            },
+            {
+                "word": "and",
+                "time": 52350
+            },
+            {
+                "word": "real-time"
+            }
+        ]
+    },
+    {
+        "start": 53270,
+        "end": 53280,
+        "part": "scalable data intensive and real-time",
+        "words": [
+            {
+                "word": "scalable"
+            },
+            {
+                "word": "data"
+            },
+            {
+                "word": "intensive"
+            },
+            {
+                "word": "and"
+            },
+            {
+                "word": "real-time"
+            }
+        ]
+    },
+    {
+        "start": 53280,
+        "end": 56060,
+        "part": "back-end services that power our client",
+        "words": [
+            {
+                "word": "back-end",
+                "time": 54180
+            },
+            {
+                "word": "services",
+                "time": 54660
+            },
+            {
+                "word": "that",
+                "time": 54930
+            },
+            {
+                "word": "power",
+                "time": 55230
+            },
+            {
+                "word": "our",
+                "time": 55559
+            },
+            {
+                "word": "client"
+            }
+        ]
+    },
+    {
+        "start": 56060,
+        "end": 56070,
+        "part": "",
+        "words": [
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 56070,
+        "end": 58760,
+        "part": "back-end services that power our client applications now you might ask but mosh",
+        "words": [
+            {
+                "word": "back-end"
+            },
+            {
+                "word": "services"
+            },
+            {
+                "word": "that"
+            },
+            {
+                "word": "power"
+            },
+            {
+                "word": "our"
+            },
+            {
+                "word": "client"
+            },
+            {
+                "word": "applications",
+                "time": 56610
+            },
+            {
+                "word": "now",
+                "time": 57480
+            },
+            {
+                "word": "you",
+                "time": 57629
+            },
+            {
+                "word": "might",
+                "time": 57840
+            },
+            {
+                "word": "ask",
+                "time": 57870
+            },
+            {
+                "word": "but",
+                "time": 58530
+            },
+            {
+                "word": "mosh"
+            }
+        ]
+    },
+    {
+        "start": 58760,
+        "end": 58770,
+        "part": "applications now you might ask but mosh",
+        "words": [
+            {
+                "word": "applications"
+            },
+            {
+                "word": "now"
+            },
+            {
+                "word": "you"
+            },
+            {
+                "word": "might"
+            },
+            {
+                "word": "ask"
+            },
+            {
+                "word": "but"
+            },
+            {
+                "word": "mosh"
+            }
+        ]
+    },
+    {
+        "start": 58770,
+        "end": 61160,
+        "part": "there are other tools and frameworks out",
+        "words": [
+            {
+                "word": "there",
+                "time": 59250
+            },
+            {
+                "word": "are",
+                "time": 59399
+            },
+            {
+                "word": "other",
+                "time": 59820
+            },
+            {
+                "word": "tools",
+                "time": 60210
+            },
+            {
+                "word": "and",
+                "time": 60420
+            },
+            {
+                "word": "frameworks",
+                "time": 60750
+            },
+            {
+                "word": "out"
+            }
+        ]
+    },
+    {
+        "start": 61160,
+        "end": 61170,
+        "part": "",
+        "words": [
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 61170,
+        "end": 63170,
+        "part": "there are other tools and frameworks out there for building back-end services",
+        "words": [
+            {
+                "word": "there"
+            },
+            {
+                "word": "are"
+            },
+            {
+                "word": "other"
+            },
+            {
+                "word": "tools"
+            },
+            {
+                "word": "and"
+            },
+            {
+                "word": "frameworks"
+            },
+            {
+                "word": "out"
+            },
+            {
+                "word": "there",
+                "time": 61230
+            },
+            {
+                "word": "for",
+                "time": 61770
+            },
+            {
+                "word": "building",
+                "time": 62250
+            },
+            {
+                "word": "back-end",
+                "time": 62730
+            },
+            {
+                "word": "services"
+            }
+        ]
+    },
+    {
+        "start": 63170,
+        "end": 63180,
+        "part": "there for building back-end services",
+        "words": [
+            {
+                "word": "there"
+            },
+            {
+                "word": "for"
+            },
+            {
+                "word": "building"
+            },
+            {
+                "word": "back-end"
+            },
+            {
+                "word": "services"
+            }
+        ]
+    },
+    {
+        "start": 63180,
+        "end": 66590,
+        "part": "such as a spirit med rails Django and so",
+        "words": [
+            {
+                "word": "such",
+                "time": 63600
+            },
+            {
+                "word": "as",
+                "time": 63629
+            },
+            {
+                "word": "a",
+                "time": 63989
+            },
+            {
+                "word": "spirit",
+                "time": 64379
+            },
+            {
+                "word": "med",
+                "time": 64589
+            },
+            {
+                "word": "rails",
+                "time": 65220
+            },
+            {
+                "word": "django",
+                "time": 66180
+            },
+            {
+                "word": "and",
+                "time": 66390
+            },
+            {
+                "word": "so"
+            }
+        ]
+    },
+    {
+        "start": 66590,
+        "end": 66600,
+        "part": "",
+        "words": [
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 66600,
+        "end": 69289,
+        "part": "such as a spirit med rails Django and so on so what's so special about no well",
+        "words": [
+            {
+                "word": "such"
+            },
+            {
+                "word": "as"
+            },
+            {
+                "word": "a"
+            },
+            {
+                "word": "spirit"
+            },
+            {
+                "word": "med"
+            },
+            {
+                "word": "rails"
+            },
+            {
+                "word": "django"
+            },
+            {
+                "word": "and"
+            },
+            {
+                "word": "so"
+            },
+            {
+                "word": "on",
+                "time": 66720
+            },
+            {
+                "word": "so",
+                "time": 67229
+            },
+            {
+                "word": "what's",
+                "time": 67439
+            },
+            {
+                "word": "so",
+                "time": 67590
+            },
+            {
+                "word": "special",
+                "time": 67890
+            },
+            {
+                "word": "about",
+                "time": 68130
+            },
+            {
+                "word": "no",
+                "time": 68460
+            },
+            {
+                "word": "well"
+            }
+        ]
+    },
+    {
+        "start": 69289,
+        "end": 69299,
+        "part": "on so what's so special about no well",
+        "words": [
+            {
+                "word": "on"
+            },
+            {
+                "word": "so"
+            },
+            {
+                "word": "what's"
+            },
+            {
+                "word": "so"
+            },
+            {
+                "word": "special"
+            },
+            {
+                "word": "about"
+            },
+            {
+                "word": "no"
+            },
+            {
+                "word": "well"
+            }
+        ]
+    },
+    {
+        "start": 69299,
+        "end": 72380,
+        "part": "note is easy to get started and can be",
+        "words": [
+            {
+                "word": "note",
+                "time": 70080
+            },
+            {
+                "word": "is",
+                "time": 70350
+            },
+            {
+                "word": "easy",
+                "time": 70619
+            },
+            {
+                "word": "to",
+                "time": 70920
+            },
+            {
+                "word": "get",
+                "time": 71070
+            },
+            {
+                "word": "started",
+                "time": 71340
+            },
+            {
+                "word": "and",
+                "time": 71670
+            },
+            {
+                "word": "can",
+                "time": 72240
+            },
+            {
+                "word": "be"
+            }
+        ]
+    },
+    {
+        "start": 72380,
+        "end": 72390,
+        "part": "",
+        "words": [
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 72390,
+        "end": 75050,
+        "part": "note is easy to get started and can be used for prototyping and agile",
+        "words": [
+            {
+                "word": "note"
+            },
+            {
+                "word": "is"
+            },
+            {
+                "word": "easy"
+            },
+            {
+                "word": "to"
+            },
+            {
+                "word": "get"
+            },
+            {
+                "word": "started"
+            },
+            {
+                "word": "and"
+            },
+            {
+                "word": "can"
+            },
+            {
+                "word": "be"
+            },
+            {
+                "word": "used",
+                "time": 72630
+            },
+            {
+                "word": "for",
+                "time": 73020
+            },
+            {
+                "word": "prototyping",
+                "time": 73530
+            },
+            {
+                "word": "and",
+                "time": 74130
+            },
+            {
+                "word": "agile"
+            }
+        ]
+    },
+    {
+        "start": 75050,
+        "end": 75060,
+        "part": "used for prototyping and agile",
+        "words": [
+            {
+                "word": "used"
+            },
+            {
+                "word": "for"
+            },
+            {
+                "word": "prototyping"
+            },
+            {
+                "word": "and"
+            },
+            {
+                "word": "agile"
+            }
+        ]
+    },
+    {
+        "start": 75060,
+        "end": 77420,
+        "part": "development but it can also be used for",
+        "words": [
+            {
+                "word": "development",
+                "time": 75659
+            },
+            {
+                "word": "but",
+                "time": 76380
+            },
+            {
+                "word": "it",
+                "time": 76470
+            },
+            {
+                "word": "can",
+                "time": 76590
+            },
+            {
+                "word": "also",
+                "time": 76830
+            },
+            {
+                "word": "be",
+                "time": 76979
+            },
+            {
+                "word": "used",
+                "time": 77280
+            },
+            {
+                "word": "for"
+            }
+        ]
+    },
+    {
+        "start": 77420,
+        "end": 77430,
+        "part": "",
+        "words": [
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 77430,
+        "end": 80539,
+        "part": "development but it can also be used for building super fast and highly scalable",
+        "words": [
+            {
+                "word": "development"
+            },
+            {
+                "word": "but"
+            },
+            {
+                "word": "it"
+            },
+            {
+                "word": "can"
+            },
+            {
+                "word": "also"
+            },
+            {
+                "word": "be"
+            },
+            {
+                "word": "used"
+            },
+            {
+                "word": "for"
+            },
+            {
+                "word": "building",
+                "time": 77939
+            },
+            {
+                "word": "super",
+                "time": 78600
+            },
+            {
+                "word": "fast",
+                "time": 78869
+            },
+            {
+                "word": "and",
+                "time": 79170
+            },
+            {
+                "word": "highly",
+                "time": 79770
+            },
+            {
+                "word": "scalable"
+            }
+        ]
+    },
+    {
+        "start": 80539,
+        "end": 80549,
+        "part": "building super fast and highly scalable",
+        "words": [
+            {
+                "word": "building"
+            },
+            {
+                "word": "super"
+            },
+            {
+                "word": "fast"
+            },
+            {
+                "word": "and"
+            },
+            {
+                "word": "highly"
+            },
+            {
+                "word": "scalable"
+            }
+        ]
+    },
+    {
+        "start": 80549,
+        "end": 83090,
+        "part": "services it's used in production by",
+        "words": [
+            {
+                "word": "services",
+                "time": 80869
+            },
+            {
+                "word": "it's",
+                "time": 81869
+            },
+            {
+                "word": "used",
+                "time": 82170
+            },
+            {
+                "word": "in",
+                "time": 82350
+            },
+            {
+                "word": "production",
+                "time": 82680
+            },
+            {
+                "word": "by"
+            }
+        ]
+    },
+    {
+        "start": 83090,
+        "end": 83100,
+        "part": "",
+        "words": [
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 83100,
+        "end": 85760,
+        "part": "services it's used in production by large companies such as PayPal uber",
+        "words": [
+            {
+                "word": "services"
+            },
+            {
+                "word": "it's"
+            },
+            {
+                "word": "used"
+            },
+            {
+                "word": "in"
+            },
+            {
+                "word": "production"
+            },
+            {
+                "word": "by"
+            },
+            {
+                "word": "large",
+                "time": 83400
+            },
+            {
+                "word": "companies",
+                "time": 84000
+            },
+            {
+                "word": "such",
+                "time": 84390
+            },
+            {
+                "word": "as",
+                "time": 84420
+            },
+            {
+                "word": "paypal",
+                "time": 84990
+            },
+            {
+                "word": "uber"
+            }
+        ]
+    },
+    {
+        "start": 85760,
+        "end": 85770,
+        "part": "large companies such as PayPal uber",
+        "words": [
+            {
+                "word": "large"
+            },
+            {
+                "word": "companies"
+            },
+            {
+                "word": "such"
+            },
+            {
+                "word": "as"
+            },
+            {
+                "word": "paypal"
+            },
+            {
+                "word": "uber"
+            }
+        ]
+    },
+    {
+        "start": 85770,
+        "end": 89270,
+        "part": "Netflix Walmart and so on in fact at",
+        "words": [
+            {
+                "word": "netflix",
+                "time": 86700
+            },
+            {
+                "word": "walmart",
+                "time": 87600
+            },
+            {
+                "word": "and",
+                "time": 87810
+            },
+            {
+                "word": "so",
+                "time": 88049
+            },
+            {
+                "word": "on",
+                "time": 88229
+            },
+            {
+                "word": "in",
+                "time": 88710
+            },
+            {
+                "word": "fact",
+                "time": 89070
+            },
+            {
+                "word": "at"
+            }
+        ]
+    },
+    {
+        "start": 89270,
+        "end": 89280,
+        "part": "",
+        "words": [
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 89280,
+        "end": 91850,
+        "part": "Netflix Walmart and so on in fact at PayPal that rebuilt one of their Java",
+        "words": [
+            {
+                "word": "netflix"
+            },
+            {
+                "word": "walmart"
+            },
+            {
+                "word": "and"
+            },
+            {
+                "word": "so"
+            },
+            {
+                "word": "on"
+            },
+            {
+                "word": "in"
+            },
+            {
+                "word": "fact"
+            },
+            {
+                "word": "at"
+            },
+            {
+                "word": "paypal",
+                "time": 89790
+            },
+            {
+                "word": "that",
+                "time": 90329
+            },
+            {
+                "word": "rebuilt",
+                "time": 90810
+            },
+            {
+                "word": "one",
+                "time": 91200
+            },
+            {
+                "word": "of",
+                "time": 91350
+            },
+            {
+                "word": "their",
+                "time": 91470
+            },
+            {
+                "word": "java"
+            }
+        ]
+    },
+    {
+        "start": 91850,
+        "end": 91860,
+        "part": "PayPal that rebuilt one of their Java",
+        "words": [
+            {
+                "word": "paypal"
+            },
+            {
+                "word": "that"
+            },
+            {
+                "word": "rebuilt"
+            },
+            {
+                "word": "one"
+            },
+            {
+                "word": "of"
+            },
+            {
+                "word": "their"
+            },
+            {
+                "word": "java"
+            }
+        ]
+    },
+    {
+        "start": 91860,
+        "end": 94160,
+        "part": "and spring based applications using node",
+        "words": [
+            {
+                "word": "and",
+                "time": 92159
+            },
+            {
+                "word": "spring",
+                "time": 92640
+            },
+            {
+                "word": "based",
+                "time": 92880
+            },
+            {
+                "word": "applications",
+                "time": 93630
+            },
+            {
+                "word": "using",
+                "time": 93840
+            },
+            {
+                "word": "node"
+            }
+        ]
+    },
+    {
+        "start": 94160,
+        "end": 94170,
+        "part": "",
+        "words": [
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 94170,
+        "end": 96920,
+        "part": "and spring based applications using node and it found that the node application",
+        "words": [
+            {
+                "word": "and"
+            },
+            {
+                "word": "spring"
+            },
+            {
+                "word": "based"
+            },
+            {
+                "word": "applications"
+            },
+            {
+                "word": "using"
+            },
+            {
+                "word": "node"
+            },
+            {
+                "word": "and",
+                "time": 94439
+            },
+            {
+                "word": "it",
+                "time": 95310
+            },
+            {
+                "word": "found",
+                "time": 95640
+            },
+            {
+                "word": "that",
+                "time": 95820
+            },
+            {
+                "word": "the",
+                "time": 96030
+            },
+            {
+                "word": "node",
+                "time": 96270
+            },
+            {
+                "word": "application"
+            }
+        ]
+    },
+    {
+        "start": 96920,
+        "end": 96930,
+        "part": "and it found that the node application",
+        "words": [
+            {
+                "word": "and"
+            },
+            {
+                "word": "it"
+            },
+            {
+                "word": "found"
+            },
+            {
+                "word": "that"
+            },
+            {
+                "word": "the"
+            },
+            {
+                "word": "node"
+            },
+            {
+                "word": "application"
+            }
+        ]
+    },
+    {
+        "start": 96930,
+        "end": 99679,
+        "part": "was built twice as fast with fewer",
+        "words": [
+            {
+                "word": "was",
+                "time": 97290
+            },
+            {
+                "word": "built",
+                "time": 97530
+            },
+            {
+                "word": "twice",
+                "time": 98220
+            },
+            {
+                "word": "as",
+                "time": 98460
+            },
+            {
+                "word": "fast",
+                "time": 98729
+            },
+            {
+                "word": "with",
+                "time": 98939
+            },
+            {
+                "word": "fewer"
+            }
+        ]
+    },
+    {
+        "start": 99679,
+        "end": 99689,
+        "part": "",
+        "words": [
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 99689,
+        "end": 103810,
+        "part": "was built twice as fast with fewer people in 33% fewer lines of code and",
+        "words": [
+            {
+                "word": "was"
+            },
+            {
+                "word": "built"
+            },
+            {
+                "word": "twice"
+            },
+            {
+                "word": "as"
+            },
+            {
+                "word": "fast"
+            },
+            {
+                "word": "with"
+            },
+            {
+                "word": "fewer"
+            },
+            {
+                "word": "people",
+                "time": 99960
+            },
+            {
+                "word": "in",
+                "time": 100939
+            },
+            {
+                "word": "33",
+                "time": 101939
+            },
+            {
+                "word": "fewer",
+                "time": 102420
+            },
+            {
+                "word": "lines",
+                "time": 102780
+            },
+            {
+                "word": "of",
+                "time": 102990
+            },
+            {
+                "word": "code",
+                "time": 103259
+            },
+            {
+                "word": "and"
+            }
+        ]
+    },
+    {
+        "start": 103810,
+        "end": 103820,
+        "part": "people in 33% fewer lines of code and",
+        "words": [
+            {
+                "word": "people"
+            },
+            {
+                "word": "in"
+            },
+            {
+                "word": "33"
+            },
+            {
+                "word": "fewer"
+            },
+            {
+                "word": "lines"
+            },
+            {
+                "word": "of"
+            },
+            {
+                "word": "code"
+            },
+            {
+                "word": "and"
+            }
+        ]
+    },
+    {
+        "start": 103820,
+        "end": 107420,
+        "part": "40% fewer files and more importantly",
+        "words": [
+            {
+                "word": "40",
+                "time": 104820
+            },
+            {
+                "word": "fewer",
+                "time": 105360
+            },
+            {
+                "word": "files",
+                "time": 105810
+            },
+            {
+                "word": "and",
+                "time": 106110
+            },
+            {
+                "word": "more",
+                "time": 106890
+            },
+            {
+                "word": "importantly"
+            }
+        ]
+    },
+    {
+        "start": 107420,
+        "end": 107430,
+        "part": "",
+        "words": [
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 107430,
+        "end": 109969,
+        "part": "40% fewer files and more importantly they double the number of requests",
+        "words": [
+            {
+                "word": "40"
+            },
+            {
+                "word": "fewer"
+            },
+            {
+                "word": "files"
+            },
+            {
+                "word": "and"
+            },
+            {
+                "word": "more"
+            },
+            {
+                "word": "importantly"
+            },
+            {
+                "word": "they",
+                "time": 108060
+            },
+            {
+                "word": "double",
+                "time": 108600
+            },
+            {
+                "word": "the",
+                "time": 108840
+            },
+            {
+                "word": "number",
+                "time": 109170
+            },
+            {
+                "word": "of",
+                "time": 109290
+            },
+            {
+                "word": "requests"
+            }
+        ]
+    },
+    {
+        "start": 109969,
+        "end": 109979,
+        "part": "they double the number of requests",
+        "words": [
+            {
+                "word": "they"
+            },
+            {
+                "word": "double"
+            },
+            {
+                "word": "the"
+            },
+            {
+                "word": "number"
+            },
+            {
+                "word": "of"
+            },
+            {
+                "word": "requests"
+            }
+        ]
+    },
+    {
+        "start": 109979,
+        "end": 112730,
+        "part": "served per second while decreasing the",
+        "words": [
+            {
+                "word": "served",
+                "time": 110549
+            },
+            {
+                "word": "per",
+                "time": 110790
+            },
+            {
+                "word": "second",
+                "time": 111210
+            },
+            {
+                "word": "while",
+                "time": 111840
+            },
+            {
+                "word": "decreasing",
+                "time": 112170
+            },
+            {
+                "word": "the"
+            }
+        ]
+    },
+    {
+        "start": 112730,
+        "end": 112740,
+        "part": "",
+        "words": [
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 112740,
+        "end": 116569,
+        "part": "served per second while decreasing the average response time by 35% so node is",
+        "words": [
+            {
+                "word": "served"
+            },
+            {
+                "word": "per"
+            },
+            {
+                "word": "second"
+            },
+            {
+                "word": "while"
+            },
+            {
+                "word": "decreasing"
+            },
+            {
+                "word": "the"
+            },
+            {
+                "word": "average",
+                "time": 113250
+            },
+            {
+                "word": "response",
+                "time": 113520
+            },
+            {
+                "word": "time",
+                "time": 113790
+            },
+            {
+                "word": "by",
+                "time": 114350
+            },
+            {
+                "word": "35",
+                "time": 115350
+            },
+            {
+                "word": "so",
+                "time": 116130
+            },
+            {
+                "word": "node",
+                "time": 116369
+            },
+            {
+                "word": "is"
+            }
+        ]
+    },
+    {
+        "start": 116569,
+        "end": 116579,
+        "part": "average response time by 35% so node is",
+        "words": [
+            {
+                "word": "average"
+            },
+            {
+                "word": "response"
+            },
+            {
+                "word": "time"
+            },
+            {
+                "word": "by"
+            },
+            {
+                "word": "35"
+            },
+            {
+                "word": "so"
+            },
+            {
+                "word": "node"
+            },
+            {
+                "word": "is"
+            }
+        ]
+    },
+    {
+        "start": 116579,
+        "end": 118789,
+        "part": "an excellent choice for building highly",
+        "words": [
+            {
+                "word": "an",
+                "time": 116729
+            },
+            {
+                "word": "excellent",
+                "time": 117329
+            },
+            {
+                "word": "choice",
+                "time": 117509
+            },
+            {
+                "word": "for",
+                "time": 117869
+            },
+            {
+                "word": "building",
+                "time": 118110
+            },
+            {
+                "word": "highly"
+            }
+        ]
+    },
+    {
+        "start": 118789,
+        "end": 118799,
+        "part": "",
+        "words": [
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 118799,
+        "end": 121580,
+        "part": "an excellent choice for building highly scalable services another reason for",
+        "words": [
+            {
+                "word": "an"
+            },
+            {
+                "word": "excellent"
+            },
+            {
+                "word": "choice"
+            },
+            {
+                "word": "for"
+            },
+            {
+                "word": "building"
+            },
+            {
+                "word": "highly"
+            },
+            {
+                "word": "scalable",
+                "time": 119369
+            },
+            {
+                "word": "services",
+                "time": 120140
+            },
+            {
+                "word": "another",
+                "time": 121140
+            },
+            {
+                "word": "reason",
+                "time": 121560
+            },
+            {
+                "word": "for"
+            }
+        ]
+    },
+    {
+        "start": 121580,
+        "end": 121590,
+        "part": "scalable services another reason for",
+        "words": [
+            {
+                "word": "scalable"
+            },
+            {
+                "word": "services"
+            },
+            {
+                "word": "another"
+            },
+            {
+                "word": "reason"
+            },
+            {
+                "word": "for"
+            }
+        ]
+    },
+    {
+        "start": 121590,
+        "end": 123950,
+        "part": "using note is that in node applications",
+        "words": [
+            {
+                "word": "using",
+                "time": 121829
+            },
+            {
+                "word": "note",
+                "time": 122159
+            },
+            {
+                "word": "is",
+                "time": 122490
+            },
+            {
+                "word": "that",
+                "time": 122759
+            },
+            {
+                "word": "in",
+                "time": 123030
+            },
+            {
+                "word": "node",
+                "time": 123240
+            },
+            {
+                "word": "applications"
+            }
+        ]
+    },
+    {
+        "start": 123950,
+        "end": 123960,
+        "part": "",
+        "words": [
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 123960,
+        "end": 126230,
+        "part": "using note is that in node applications we use JavaScript so if you're a",
+        "words": [
+            {
+                "word": "using"
+            },
+            {
+                "word": "note"
+            },
+            {
+                "word": "is"
+            },
+            {
+                "word": "that"
+            },
+            {
+                "word": "in"
+            },
+            {
+                "word": "node"
+            },
+            {
+                "word": "applications"
+            },
+            {
+                "word": "we",
+                "time": 124170
+            },
+            {
+                "word": "use",
+                "time": 124250
+            },
+            {
+                "word": "javascript",
+                "time": 125250
+            },
+            {
+                "word": "so",
+                "time": 125909
+            },
+            {
+                "word": "if",
+                "time": 126060
+            },
+            {
+                "word": "you're",
+                "time": 126210
+            },
+            {
+                "word": "a"
+            }
+        ]
+    },
+    {
+        "start": 126230,
+        "end": 126240,
+        "part": "we use JavaScript so if you're a",
+        "words": [
+            {
+                "word": "we"
+            },
+            {
+                "word": "use"
+            },
+            {
+                "word": "javascript"
+            },
+            {
+                "word": "so"
+            },
+            {
+                "word": "if"
+            },
+            {
+                "word": "you're"
+            },
+            {
+                "word": "a"
+            }
+        ]
+    },
+    {
+        "start": 126240,
+        "end": 128119,
+        "part": "front-end developer and know JavaScript",
+        "words": [
+            {
+                "word": "front-end",
+                "time": 126780
+            },
+            {
+                "word": "developer",
+                "time": 126810
+            },
+            {
+                "word": "and",
+                "time": 127469
+            },
+            {
+                "word": "know",
+                "time": 127680
+            },
+            {
+                "word": "javascript"
+            }
+        ]
+    },
+    {
+        "start": 128119,
+        "end": 128129,
+        "part": "",
+        "words": [
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 128129,
+        "end": 131839,
+        "part": "front-end developer and know JavaScript you can reuse your JavaScript skills and",
+        "words": [
+            {
+                "word": "front-end"
+            },
+            {
+                "word": "developer"
+            },
+            {
+                "word": "and"
+            },
+            {
+                "word": "know"
+            },
+            {
+                "word": "javascript"
+            },
+            {
+                "word": "you",
+                "time": 129030
+            },
+            {
+                "word": "can",
+                "time": 129060
+            },
+            {
+                "word": "reuse",
+                "time": 129660
+            },
+            {
+                "word": "your",
+                "time": 129690
+            },
+            {
+                "word": "javascript",
+                "time": 130590
+            },
+            {
+                "word": "skills",
+                "time": 130920
+            },
+            {
+                "word": "and"
+            }
+        ]
+    },
+    {
+        "start": 131839,
+        "end": 131849,
+        "part": "you can reuse your JavaScript skills and",
+        "words": [
+            {
+                "word": "you"
+            },
+            {
+                "word": "can"
+            },
+            {
+                "word": "reuse"
+            },
+            {
+                "word": "your"
+            },
+            {
+                "word": "javascript"
+            },
+            {
+                "word": "skills"
+            },
+            {
+                "word": "and"
+            }
+        ]
+    },
+    {
+        "start": 131849,
+        "end": 134209,
+        "part": "- a full-stack developer and get a",
+        "words": [
+            {
+                "word": "-",
+                "time": 132420
+            },
+            {
+                "word": "a",
+                "time": 132450
+            },
+            {
+                "word": "full-stack",
+                "time": 133049
+            },
+            {
+                "word": "developer",
+                "time": 133109
+            },
+            {
+                "word": "and",
+                "time": 133799
+            },
+            {
+                "word": "get",
+                "time": 134189
+            },
+            {
+                "word": "a"
+            }
+        ]
+    },
+    {
+        "start": 134209,
+        "end": 134219,
+        "part": "",
+        "words": [
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 134219,
+        "end": 136369,
+        "part": "- a full-stack developer and get a better job with better pay you don't",
+        "words": [
+            {
+                "word": "-"
+            },
+            {
+                "word": "a"
+            },
+            {
+                "word": "full-stack"
+            },
+            {
+                "word": "developer"
+            },
+            {
+                "word": "and"
+            },
+            {
+                "word": "get"
+            },
+            {
+                "word": "a"
+            },
+            {
+                "word": "better",
+                "time": 134519
+            },
+            {
+                "word": "job",
+                "time": 134640
+            },
+            {
+                "word": "with",
+                "time": 135030
+            },
+            {
+                "word": "better",
+                "time": 135239
+            },
+            {
+                "word": "pay",
+                "time": 135480
+            },
+            {
+                "word": "you",
+                "time": 136200
+            },
+            {
+                "word": "don't"
+            }
+        ]
+    },
+    {
+        "start": 136369,
+        "end": 136379,
+        "part": "better job with better pay you don't",
+        "words": [
+            {
+                "word": "better"
+            },
+            {
+                "word": "job"
+            },
+            {
+                "word": "with"
+            },
+            {
+                "word": "better"
+            },
+            {
+                "word": "pay"
+            },
+            {
+                "word": "you"
+            },
+            {
+                "word": "don't"
+            }
+        ]
+    },
+    {
+        "start": 136379,
+        "end": 137979,
+        "part": "have to learn a new programming language",
+        "words": [
+            {
+                "word": "have",
+                "time": 136499
+            },
+            {
+                "word": "to",
+                "time": 136620
+            },
+            {
+                "word": "learn",
+                "time": 136739
+            },
+            {
+                "word": "a",
+                "time": 136950
+            },
+            {
+                "word": "new",
+                "time": 137219
+            },
+            {
+                "word": "programming",
+                "time": 137489
+            },
+            {
+                "word": "language"
+            }
+        ]
+    },
+    {
+        "start": 137979,
+        "end": 137989,
+        "part": "",
+        "words": [
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 137989,
+        "end": 141379,
+        "part": "have to learn a new programming language also because you can use JavaScript both",
+        "words": [
+            {
+                "word": "have"
+            },
+            {
+                "word": "to"
+            },
+            {
+                "word": "learn"
+            },
+            {
+                "word": "a"
+            },
+            {
+                "word": "new"
+            },
+            {
+                "word": "programming"
+            },
+            {
+                "word": "language"
+            },
+            {
+                "word": "also",
+                "time": 139040
+            },
+            {
+                "word": "because",
+                "time": 140040
+            },
+            {
+                "word": "you",
+                "time": 140159
+            },
+            {
+                "word": "can",
+                "time": 140280
+            },
+            {
+                "word": "use",
+                "time": 140430
+            },
+            {
+                "word": "javascript",
+                "time": 140700
+            },
+            {
+                "word": "both"
+            }
+        ]
+    },
+    {
+        "start": 141379,
+        "end": 141389,
+        "part": "also because you can use JavaScript both",
+        "words": [
+            {
+                "word": "also"
+            },
+            {
+                "word": "because"
+            },
+            {
+                "word": "you"
+            },
+            {
+                "word": "can"
+            },
+            {
+                "word": "use"
+            },
+            {
+                "word": "javascript"
+            },
+            {
+                "word": "both"
+            }
+        ]
+    },
+    {
+        "start": 141389,
+        "end": 143089,
+        "part": "on the front end and on the back end",
+        "words": [
+            {
+                "word": "on",
+                "time": 141629
+            },
+            {
+                "word": "the",
+                "time": 141870
+            },
+            {
+                "word": "front",
+                "time": 142139
+            },
+            {
+                "word": "end",
+                "time": 142349
+            },
+            {
+                "word": "and",
+                "time": 142439
+            },
+            {
+                "word": "on",
+                "time": 142829
+            },
+            {
+                "word": "the",
+                "time": 142920
+            },
+            {
+                "word": "back",
+                "time": 143069
+            },
+            {
+                "word": "end"
+            }
+        ]
+    },
+    {
+        "start": 143089,
+        "end": 143099,
+        "part": "",
+        "words": [
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 143099,
+        "end": 145580,
+        "part": "on the front end and on the back end your source code will be cleaner and",
+        "words": [
+            {
+                "word": "on"
+            },
+            {
+                "word": "the"
+            },
+            {
+                "word": "front"
+            },
+            {
+                "word": "end"
+            },
+            {
+                "word": "and"
+            },
+            {
+                "word": "on"
+            },
+            {
+                "word": "the"
+            },
+            {
+                "word": "back"
+            },
+            {
+                "word": "end"
+            },
+            {
+                "word": "your",
+                "time": 143909
+            },
+            {
+                "word": "source",
+                "time": 144269
+            },
+            {
+                "word": "code",
+                "time": 144540
+            },
+            {
+                "word": "will",
+                "time": 144780
+            },
+            {
+                "word": "be",
+                "time": 144900
+            },
+            {
+                "word": "cleaner",
+                "time": 145260
+            },
+            {
+                "word": "and"
+            }
+        ]
+    },
+    {
+        "start": 145580,
+        "end": 145590,
+        "part": "your source code will be cleaner and",
+        "words": [
+            {
+                "word": "your"
+            },
+            {
+                "word": "source"
+            },
+            {
+                "word": "code"
+            },
+            {
+                "word": "will"
+            },
+            {
+                "word": "be"
+            },
+            {
+                "word": "cleaner"
+            },
+            {
+                "word": "and"
+            }
+        ]
+    },
+    {
+        "start": 145590,
+        "end": 148129,
+        "part": "more consistent so you will use the same",
+        "words": [
+            {
+                "word": "more",
+                "time": 145920
+            },
+            {
+                "word": "consistent",
+                "time": 146639
+            },
+            {
+                "word": "so",
+                "time": 147269
+            },
+            {
+                "word": "you",
+                "time": 147299
+            },
+            {
+                "word": "will",
+                "time": 147599
+            },
+            {
+                "word": "use",
+                "time": 147749
+            },
+            {
+                "word": "the",
+                "time": 147900
+            },
+            {
+                "word": "same"
+            }
+        ]
+    },
+    {
+        "start": 148129,
+        "end": 148139,
+        "part": "",
+        "words": [
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 148139,
+        "end": 150080,
+        "part": "more consistent so you will use the same naming conventions the same tools and",
+        "words": [
+            {
+                "word": "more"
+            },
+            {
+                "word": "consistent"
+            },
+            {
+                "word": "so"
+            },
+            {
+                "word": "you"
+            },
+            {
+                "word": "will"
+            },
+            {
+                "word": "use"
+            },
+            {
+                "word": "the"
+            },
+            {
+                "word": "same"
+            },
+            {
+                "word": "naming",
+                "time": 148500
+            },
+            {
+                "word": "conventions",
+                "time": 149040
+            },
+            {
+                "word": "the",
+                "time": 149280
+            },
+            {
+                "word": "same",
+                "time": 149549
+            },
+            {
+                "word": "tools",
+                "time": 149879
+            },
+            {
+                "word": "and"
+            }
+        ]
+    },
+    {
+        "start": 150080,
+        "end": 150090,
+        "part": "naming conventions the same tools and",
+        "words": [
+            {
+                "word": "naming"
+            },
+            {
+                "word": "conventions"
+            },
+            {
+                "word": "the"
+            },
+            {
+                "word": "same"
+            },
+            {
+                "word": "tools"
+            },
+            {
+                "word": "and"
+            }
+        ]
+    },
+    {
+        "start": 150090,
+        "end": 152809,
+        "part": "the same best practices and finally",
+        "words": [
+            {
+                "word": "the",
+                "time": 150359
+            },
+            {
+                "word": "same",
+                "time": 150599
+            },
+            {
+                "word": "best",
+                "time": 150900
+            },
+            {
+                "word": "practices",
+                "time": 151590
+            },
+            {
+                "word": "and",
+                "time": 151819
+            },
+            {
+                "word": "finally"
+            }
+        ]
+    },
+    {
+        "start": 152809,
+        "end": 152819,
+        "part": "",
+        "words": [
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 152819,
+        "end": 155030,
+        "part": "the same best practices and finally another reason for using node is that it",
+        "words": [
+            {
+                "word": "the"
+            },
+            {
+                "word": "same"
+            },
+            {
+                "word": "best"
+            },
+            {
+                "word": "practices"
+            },
+            {
+                "word": "and"
+            },
+            {
+                "word": "finally"
+            },
+            {
+                "word": "another",
+                "time": 153150
+            },
+            {
+                "word": "reason",
+                "time": 153599
+            },
+            {
+                "word": "for",
+                "time": 153750
+            },
+            {
+                "word": "using",
+                "time": 153900
+            },
+            {
+                "word": "node",
+                "time": 154230
+            },
+            {
+                "word": "is",
+                "time": 154469
+            },
+            {
+                "word": "that",
+                "time": 154920
+            },
+            {
+                "word": "it"
+            }
+        ]
+    },
+    {
+        "start": 155030,
+        "end": 155040,
+        "part": "another reason for using node is that it",
+        "words": [
+            {
+                "word": "another"
+            },
+            {
+                "word": "reason"
+            },
+            {
+                "word": "for"
+            },
+            {
+                "word": "using"
+            },
+            {
+                "word": "node"
+            },
+            {
+                "word": "is"
+            },
+            {
+                "word": "that"
+            },
+            {
+                "word": "it"
+            }
+        ]
+    },
+    {
+        "start": 155040,
+        "end": 157789,
+        "part": "has the largest ecosystem of open source",
+        "words": [
+            {
+                "word": "has",
+                "time": 155250
+            },
+            {
+                "word": "the",
+                "time": 155459
+            },
+            {
+                "word": "largest",
+                "time": 155819
+            },
+            {
+                "word": "ecosystem",
+                "time": 156450
+            },
+            {
+                "word": "of",
+                "time": 157019
+            },
+            {
+                "word": "open",
+                "time": 157620
+            },
+            {
+                "word": "source"
+            }
+        ]
+    },
+    {
+        "start": 157789,
+        "end": 157799,
+        "part": "",
+        "words": [
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 157799,
+        "end": 160849,
+        "part": "has the largest ecosystem of open source libraries available to you so for pretty",
+        "words": [
+            {
+                "word": "has"
+            },
+            {
+                "word": "the"
+            },
+            {
+                "word": "largest"
+            },
+            {
+                "word": "ecosystem"
+            },
+            {
+                "word": "of"
+            },
+            {
+                "word": "open"
+            },
+            {
+                "word": "source"
+            },
+            {
+                "word": "libraries",
+                "time": 158489
+            },
+            {
+                "word": "available",
+                "time": 158700
+            },
+            {
+                "word": "to",
+                "time": 159450
+            },
+            {
+                "word": "you",
+                "time": 159569
+            },
+            {
+                "word": "so",
+                "time": 160349
+            },
+            {
+                "word": "for",
+                "time": 160680
+            },
+            {
+                "word": "pretty"
+            }
+        ]
+    },
+    {
+        "start": 160849,
+        "end": 160859,
+        "part": "libraries available to you so for pretty",
+        "words": [
+            {
+                "word": "libraries"
+            },
+            {
+                "word": "available"
+            },
+            {
+                "word": "to"
+            },
+            {
+                "word": "you"
+            },
+            {
+                "word": "so"
+            },
+            {
+                "word": "for"
+            },
+            {
+                "word": "pretty"
+            }
+        ]
+    },
+    {
+        "start": 160859,
+        "end": 162920,
+        "part": "much any features or building blocks you",
+        "words": [
+            {
+                "word": "much",
+                "time": 160950
+            },
+            {
+                "word": "any",
+                "time": 161280
+            },
+            {
+                "word": "features",
+                "time": 161790
+            },
+            {
+                "word": "or",
+                "time": 162030
+            },
+            {
+                "word": "building",
+                "time": 162510
+            },
+            {
+                "word": "blocks",
+                "time": 162749
+            },
+            {
+                "word": "you"
+            }
+        ]
+    },
+    {
+        "start": 162920,
+        "end": 162930,
+        "part": "",
+        "words": [
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 162930,
+        "end": 164899,
+        "part": "much any features or building blocks you want to add your application there is",
+        "words": [
+            {
+                "word": "much"
+            },
+            {
+                "word": "any"
+            },
+            {
+                "word": "features"
+            },
+            {
+                "word": "or"
+            },
+            {
+                "word": "building"
+            },
+            {
+                "word": "blocks"
+            },
+            {
+                "word": "you"
+            },
+            {
+                "word": "want",
+                "time": 163019
+            },
+            {
+                "word": "to",
+                "time": 163169
+            },
+            {
+                "word": "add",
+                "time": 163319
+            },
+            {
+                "word": "your",
+                "time": 163560
+            },
+            {
+                "word": "application",
+                "time": 164189
+            },
+            {
+                "word": "there",
+                "time": 164879
+            },
+            {
+                "word": "is"
+            }
+        ]
+    },
+    {
+        "start": 164899,
+        "end": 164909,
+        "part": "want to add your application there is",
+        "words": [
+            {
+                "word": "want"
+            },
+            {
+                "word": "to"
+            },
+            {
+                "word": "add"
+            },
+            {
+                "word": "your"
+            },
+            {
+                "word": "application"
+            },
+            {
+                "word": "there"
+            },
+            {
+                "word": "is"
+            }
+        ]
+    },
+    {
+        "start": 164909,
+        "end": 167300,
+        "part": "some free open source library out there",
+        "words": [
+            {
+                "word": "some",
+                "time": 165209
+            },
+            {
+                "word": "free",
+                "time": 165480
+            },
+            {
+                "word": "open",
+                "time": 166260
+            },
+            {
+                "word": "source",
+                "time": 166500
+            },
+            {
+                "word": "library",
+                "time": 166919
+            },
+            {
+                "word": "out",
+                "time": 167069
+            },
+            {
+                "word": "there"
+            }
+        ]
+    },
+    {
+        "start": 167300,
+        "end": 167310,
+        "part": "",
+        "words": [
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 167310,
+        "end": 169220,
+        "part": "some free open source library out there that you can use so you don't have to",
+        "words": [
+            {
+                "word": "some"
+            },
+            {
+                "word": "free"
+            },
+            {
+                "word": "open"
+            },
+            {
+                "word": "source"
+            },
+            {
+                "word": "library"
+            },
+            {
+                "word": "out"
+            },
+            {
+                "word": "there"
+            },
+            {
+                "word": "that",
+                "time": 167489
+            },
+            {
+                "word": "you",
+                "time": 167579
+            },
+            {
+                "word": "can",
+                "time": 167730
+            },
+            {
+                "word": "use",
+                "time": 167909
+            },
+            {
+                "word": "so",
+                "time": 168540
+            },
+            {
+                "word": "you",
+                "time": 168780
+            },
+            {
+                "word": "don't",
+                "time": 168840
+            },
+            {
+                "word": "have",
+                "time": 169109
+            },
+            {
+                "word": "to"
+            }
+        ]
+    },
+    {
+        "start": 169220,
+        "end": 169230,
+        "part": "that you can use so you don't have to",
+        "words": [
+            {
+                "word": "that"
+            },
+            {
+                "word": "you"
+            },
+            {
+                "word": "can"
+            },
+            {
+                "word": "use"
+            },
+            {
+                "word": "so"
+            },
+            {
+                "word": "you"
+            },
+            {
+                "word": "don't"
+            },
+            {
+                "word": "have"
+            },
+            {
+                "word": "to"
+            }
+        ]
+    },
+    {
+        "start": 169230,
+        "end": 171319,
+        "part": "build this building blocks from scratch",
+        "words": [
+            {
+                "word": "build",
+                "time": 169500
+            },
+            {
+                "word": "this",
+                "time": 169919
+            },
+            {
+                "word": "building",
+                "time": 170459
+            },
+            {
+                "word": "blocks",
+                "time": 170760
+            },
+            {
+                "word": "from",
+                "time": 171000
+            },
+            {
+                "word": "scratch"
+            }
+        ]
+    },
+    {
+        "start": 171319,
+        "end": 171329,
+        "part": "",
+        "words": [
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 171329,
+        "end": 174020,
+        "part": "build this building blocks from scratch and instead you can focus on the core of",
+        "words": [
+            {
+                "word": "build"
+            },
+            {
+                "word": "this"
+            },
+            {
+                "word": "building"
+            },
+            {
+                "word": "blocks"
+            },
+            {
+                "word": "from"
+            },
+            {
+                "word": "scratch"
+            },
+            {
+                "word": "and",
+                "time": 171659
+            },
+            {
+                "word": "instead",
+                "time": 172620
+            },
+            {
+                "word": "you",
+                "time": 172709
+            },
+            {
+                "word": "can",
+                "time": 172829
+            },
+            {
+                "word": "focus",
+                "time": 173129
+            },
+            {
+                "word": "on",
+                "time": 173370
+            },
+            {
+                "word": "the",
+                "time": 173639
+            },
+            {
+                "word": "core",
+                "time": 174000
+            },
+            {
+                "word": "of"
+            }
+        ]
+    },
+    {
+        "start": 174020,
+        "end": 174030,
+        "part": "and instead you can focus on the core of",
+        "words": [
+            {
+                "word": "and"
+            },
+            {
+                "word": "instead"
+            },
+            {
+                "word": "you"
+            },
+            {
+                "word": "can"
+            },
+            {
+                "word": "focus"
+            },
+            {
+                "word": "on"
+            },
+            {
+                "word": "the"
+            },
+            {
+                "word": "core"
+            },
+            {
+                "word": "of"
+            }
+        ]
+    },
+    {
+        "start": 174030,
+        "end": 176240,
+        "part": "your application next we're going to",
+        "words": [
+            {
+                "word": "your",
+                "time": 174209
+            },
+            {
+                "word": "application",
+                "time": 174840
+            },
+            {
+                "word": "next",
+                "time": 175769
+            },
+            {
+                "word": "we're",
+                "time": 176040
+            },
+            {
+                "word": "going",
+                "time": 176159
+            },
+            {
+                "word": "to"
+            }
+        ]
+    },
+    {
+        "start": 176240,
+        "end": 176250,
+        "part": "",
+        "words": [
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 176250,
+        "end": 181250,
+        "part": "your application next we're going to look at the architecture of node hi guys",
+        "words": [
+            {
+                "word": "your"
+            },
+            {
+                "word": "application"
+            },
+            {
+                "word": "next"
+            },
+            {
+                "word": "we're"
+            },
+            {
+                "word": "going"
+            },
+            {
+                "word": "to"
+            },
+            {
+                "word": "look",
+                "time": 176370
+            },
+            {
+                "word": "at",
+                "time": 176549
+            },
+            {
+                "word": "the",
+                "time": 176699
+            },
+            {
+                "word": "architecture",
+                "time": 177419
+            },
+            {
+                "word": "of",
+                "time": 177449
+            },
+            {
+                "word": "node",
+                "time": 180049
+            },
+            {
+                "word": "hi",
+                "time": 181049
+            },
+            {
+                "word": "guys"
+            }
+        ]
+    },
+    {
+        "start": 181250,
+        "end": 181260,
+        "part": "look at the architecture of node hi guys",
+        "words": [
+            {
+                "word": "look"
+            },
+            {
+                "word": "at"
+            },
+            {
+                "word": "the"
+            },
+            {
+                "word": "architecture"
+            },
+            {
+                "word": "of"
+            },
+            {
+                "word": "node"
+            },
+            {
+                "word": "hi"
+            },
+            {
+                "word": "guys"
+            }
+        ]
+    },
+    {
+        "start": 181260,
+        "end": 183349,
+        "part": "it's maj here thank you for watching my",
+        "words": [
+            {
+                "word": "it's",
+                "time": 181500
+            },
+            {
+                "word": "maj",
+                "time": 181739
+            },
+            {
+                "word": "here",
+                "time": 182129
+            },
+            {
+                "word": "thank",
+                "time": 182699
+            },
+            {
+                "word": "you",
+                "time": 182790
+            },
+            {
+                "word": "for",
+                "time": 182939
+            },
+            {
+                "word": "watching",
+                "time": 183239
+            },
+            {
+                "word": "my"
+            }
+        ]
+    },
+    {
+        "start": 183349,
+        "end": 183359,
+        "part": "",
+        "words": [
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 183359,
+        "end": 185360,
+        "part": "it's maj here thank you for watching my node tutorial I just wanted to let you",
+        "words": [
+            {
+                "word": "it's"
+            },
+            {
+                "word": "maj"
+            },
+            {
+                "word": "here"
+            },
+            {
+                "word": "thank"
+            },
+            {
+                "word": "you"
+            },
+            {
+                "word": "for"
+            },
+            {
+                "word": "watching"
+            },
+            {
+                "word": "my"
+            },
+            {
+                "word": "node",
+                "time": 183629
+            },
+            {
+                "word": "tutorial",
+                "time": 184260
+            },
+            {
+                "word": "i",
+                "time": 184409
+            },
+            {
+                "word": "just",
+                "time": 184829
+            },
+            {
+                "word": "wanted",
+                "time": 184980
+            },
+            {
+                "word": "to",
+                "time": 185099
+            },
+            {
+                "word": "let",
+                "time": 185250
+            },
+            {
+                "word": "you"
+            }
+        ]
+    },
+    {
+        "start": 185360,
+        "end": 185370,
+        "part": "node tutorial I just wanted to let you",
+        "words": [
+            {
+                "word": "node"
+            },
+            {
+                "word": "tutorial"
+            },
+            {
+                "word": "i"
+            },
+            {
+                "word": "just"
+            },
+            {
+                "word": "wanted"
+            },
+            {
+                "word": "to"
+            },
+            {
+                "word": "let"
+            },
+            {
+                "word": "you"
+            }
+        ]
+    },
+    {
+        "start": 185370,
+        "end": 186559,
+        "part": "know that this video you've been",
+        "words": [
+            {
+                "word": "know",
+                "time": 185519
+            },
+            {
+                "word": "that",
+                "time": 185549
+            },
+            {
+                "word": "this",
+                "time": 186030
+            },
+            {
+                "word": "video",
+                "time": 186389
+            },
+            {
+                "word": "you've",
+                "time": 186540
+            },
+            {
+                "word": "been"
+            }
+        ]
+    },
+    {
+        "start": 186559,
+        "end": 186569,
+        "part": "",
+        "words": [
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 186569,
+        "end": 189020,
+        "part": "know that this video you've been watching is part of my complete node",
+        "words": [
+            {
+                "word": "know"
+            },
+            {
+                "word": "that"
+            },
+            {
+                "word": "this"
+            },
+            {
+                "word": "video"
+            },
+            {
+                "word": "you've"
+            },
+            {
+                "word": "been"
+            },
+            {
+                "word": "watching",
+                "time": 186780
+            },
+            {
+                "word": "is",
+                "time": 187349
+            },
+            {
+                "word": "part",
+                "time": 187769
+            },
+            {
+                "word": "of",
+                "time": 187859
+            },
+            {
+                "word": "my",
+                "time": 187980
+            },
+            {
+                "word": "complete",
+                "time": 188549
+            },
+            {
+                "word": "node"
+            }
+        ]
+    },
+    {
+        "start": 189020,
+        "end": 189030,
+        "part": "watching is part of my complete node",
+        "words": [
+            {
+                "word": "watching"
+            },
+            {
+                "word": "is"
+            },
+            {
+                "word": "part"
+            },
+            {
+                "word": "of"
+            },
+            {
+                "word": "my"
+            },
+            {
+                "word": "complete"
+            },
+            {
+                "word": "node"
+            }
+        ]
+    },
+    {
+        "start": 189030,
+        "end": 190610,
+        "part": "course where you will learn everything",
+        "words": [
+            {
+                "word": "course",
+                "time": 189419
+            },
+            {
+                "word": "where",
+                "time": 189930
+            },
+            {
+                "word": "you",
+                "time": 190139
+            },
+            {
+                "word": "will",
+                "time": 190260
+            },
+            {
+                "word": "learn",
+                "time": 190409
+            },
+            {
+                "word": "everything"
+            }
+        ]
+    },
+    {
+        "start": 190610,
+        "end": 190620,
+        "part": "",
+        "words": [
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 190620,
+        "end": 192679,
+        "part": "course where you will learn everything about node from the basic to the",
+        "words": [
+            {
+                "word": "course"
+            },
+            {
+                "word": "where"
+            },
+            {
+                "word": "you"
+            },
+            {
+                "word": "will"
+            },
+            {
+                "word": "learn"
+            },
+            {
+                "word": "everything"
+            },
+            {
+                "word": "about",
+                "time": 191099
+            },
+            {
+                "word": "node",
+                "time": 191519
+            },
+            {
+                "word": "from",
+                "time": 191760
+            },
+            {
+                "word": "the",
+                "time": 191939
+            },
+            {
+                "word": "basic",
+                "time": 192449
+            },
+            {
+                "word": "to",
+                "time": 192480
+            },
+            {
+                "word": "the"
+            }
+        ]
+    },
+    {
+        "start": 192679,
+        "end": 192689,
+        "part": "about node from the basic to the",
+        "words": [
+            {
+                "word": "about"
+            },
+            {
+                "word": "node"
+            },
+            {
+                "word": "from"
+            },
+            {
+                "word": "the"
+            },
+            {
+                "word": "basic"
+            },
+            {
+                "word": "to"
+            },
+            {
+                "word": "the"
+            }
+        ]
+    },
+    {
+        "start": 192689,
+        "end": 194509,
+        "part": "advanced topics if you're serious about",
+        "words": [
+            {
+                "word": "advanced",
+                "time": 192989
+            },
+            {
+                "word": "topics",
+                "time": 193500
+            },
+            {
+                "word": "if",
+                "time": 193680
+            },
+            {
+                "word": "you're",
+                "time": 194010
+            },
+            {
+                "word": "serious",
+                "time": 194430
+            },
+            {
+                "word": "about"
+            }
+        ]
+    },
+    {
+        "start": 194509,
+        "end": 194519,
+        "part": "",
+        "words": [
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 194519,
+        "end": 196879,
+        "part": "advanced topics if you're serious about learning node I highly recommend you to",
+        "words": [
+            {
+                "word": "advanced"
+            },
+            {
+                "word": "topics"
+            },
+            {
+                "word": "if"
+            },
+            {
+                "word": "you're"
+            },
+            {
+                "word": "serious"
+            },
+            {
+                "word": "about"
+            },
+            {
+                "word": "learning",
+                "time": 194790
+            },
+            {
+                "word": "node",
+                "time": 195180
+            },
+            {
+                "word": "i",
+                "time": 195419
+            },
+            {
+                "word": "highly",
+                "time": 196079
+            },
+            {
+                "word": "recommend",
+                "time": 196560
+            },
+            {
+                "word": "you",
+                "time": 196709
+            },
+            {
+                "word": "to"
+            }
+        ]
+    },
+    {
+        "start": 196879,
+        "end": 196889,
+        "part": "learning node I highly recommend you to",
+        "words": [
+            {
+                "word": "learning"
+            },
+            {
+                "word": "node"
+            },
+            {
+                "word": "i"
+            },
+            {
+                "word": "highly"
+            },
+            {
+                "word": "recommend"
+            },
+            {
+                "word": "you"
+            },
+            {
+                "word": "to"
+            }
+        ]
+    },
+    {
+        "start": 196889,
+        "end": 199009,
+        "part": "enroll in my node course because this is",
+        "words": [
+            {
+                "word": "enroll",
+                "time": 197280
+            },
+            {
+                "word": "in",
+                "time": 197459
+            },
+            {
+                "word": "my",
+                "time": 197579
+            },
+            {
+                "word": "node",
+                "time": 197849
+            },
+            {
+                "word": "course",
+                "time": 198209
+            },
+            {
+                "word": "because",
+                "time": 198720
+            },
+            {
+                "word": "this",
+                "time": 198900
+            },
+            {
+                "word": "is"
+            }
+        ]
+    },
+    {
+        "start": 199009,
+        "end": 199019,
+        "part": "",
+        "words": [
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 199019,
+        "end": 201080,
+        "part": "enroll in my node course because this is much faster than jumping from one",
+        "words": [
+            {
+                "word": "enroll"
+            },
+            {
+                "word": "in"
+            },
+            {
+                "word": "my"
+            },
+            {
+                "word": "node"
+            },
+            {
+                "word": "course"
+            },
+            {
+                "word": "because"
+            },
+            {
+                "word": "this"
+            },
+            {
+                "word": "is"
+            },
+            {
+                "word": "much",
+                "time": 199169
+            },
+            {
+                "word": "faster",
+                "time": 199229
+            },
+            {
+                "word": "than",
+                "time": 200069
+            },
+            {
+                "word": "jumping",
+                "time": 200729
+            },
+            {
+                "word": "from",
+                "time": 200879
+            },
+            {
+                "word": "one"
+            }
+        ]
+    },
+    {
+        "start": 201080,
+        "end": 201090,
+        "part": "much faster than jumping from one",
+        "words": [
+            {
+                "word": "much"
+            },
+            {
+                "word": "faster"
+            },
+            {
+                "word": "than"
+            },
+            {
+                "word": "jumping"
+            },
+            {
+                "word": "from"
+            },
+            {
+                "word": "one"
+            }
+        ]
+    },
+    {
+        "start": 201090,
+        "end": 202849,
+        "part": "tutorial to another it saves you time",
+        "words": [
+            {
+                "word": "tutorial",
+                "time": 201629
+            },
+            {
+                "word": "to",
+                "time": 201750
+            },
+            {
+                "word": "another",
+                "time": 202049
+            },
+            {
+                "word": "it",
+                "time": 202259
+            },
+            {
+                "word": "saves",
+                "time": 202650
+            },
+            {
+                "word": "you",
+                "time": 202829
+            },
+            {
+                "word": "time"
+            }
+        ]
+    },
+    {
+        "start": 202849,
+        "end": 202859,
+        "part": "",
+        "words": [
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 202859,
+        "end": 205099,
+        "part": "tutorial to another it saves you time plus you're going to get a lot of",
+        "words": [
+            {
+                "word": "tutorial"
+            },
+            {
+                "word": "to"
+            },
+            {
+                "word": "another"
+            },
+            {
+                "word": "it"
+            },
+            {
+                "word": "saves"
+            },
+            {
+                "word": "you"
+            },
+            {
+                "word": "time"
+            },
+            {
+                "word": "plus",
+                "time": 203790
+            },
+            {
+                "word": "you're",
+                "time": 204000
+            },
+            {
+                "word": "going",
+                "time": 204150
+            },
+            {
+                "word": "to",
+                "time": 204239
+            },
+            {
+                "word": "get",
+                "time": 204449
+            },
+            {
+                "word": "a",
+                "time": 204659
+            },
+            {
+                "word": "lot",
+                "time": 204989
+            },
+            {
+                "word": "of"
+            }
+        ]
+    },
+    {
+        "start": 205099,
+        "end": 205109,
+        "part": "plus you're going to get a lot of",
+        "words": [
+            {
+                "word": "plus"
+            },
+            {
+                "word": "you're"
+            },
+            {
+                "word": "going"
+            },
+            {
+                "word": "to"
+            },
+            {
+                "word": "get"
+            },
+            {
+                "word": "a"
+            },
+            {
+                "word": "lot"
+            },
+            {
+                "word": "of"
+            }
+        ]
+    },
+    {
+        "start": 205109,
+        "end": 207349,
+        "part": "exercises that will prepare you for the",
+        "words": [
+            {
+                "word": "exercises",
+                "time": 205979
+            },
+            {
+                "word": "that",
+                "time": 206129
+            },
+            {
+                "word": "will",
+                "time": 206340
+            },
+            {
+                "word": "prepare",
+                "time": 206879
+            },
+            {
+                "word": "you",
+                "time": 207060
+            },
+            {
+                "word": "for",
+                "time": 207090
+            },
+            {
+                "word": "the"
+            }
+        ]
+    },
+    {
+        "start": 207349,
+        "end": 207359,
+        "part": "",
+        "words": [
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 207359,
+        "end": 207979,
+        "part": "exercises that will prepare you for the real world",
+        "words": [
+            {
+                "word": "exercises"
+            },
+            {
+                "word": "that"
+            },
+            {
+                "word": "will"
+            },
+            {
+                "word": "prepare"
+            },
+            {
+                "word": "you"
+            },
+            {
+                "word": "for"
+            },
+            {
+                "word": "the"
+            },
+            {
+                "word": "real",
+                "time": 207629
+            },
+            {
+                "word": "world"
+            }
+        ]
+    },
+    {
+        "start": 207979,
+        "end": 207989,
+        "part": "real world",
+        "words": [
+            {
+                "word": "real"
+            },
+            {
+                "word": "world"
+            }
+        ]
+    },
+    {
+        "start": 207989,
+        "end": 209869,
+        "part": "and also at the end of the course you'll",
+        "words": [
+            {
+                "word": "and",
+                "time": 208139
+            },
+            {
+                "word": "also",
+                "time": 208739
+            },
+            {
+                "word": "at",
+                "time": 208859
+            },
+            {
+                "word": "the",
+                "time": 208979
+            },
+            {
+                "word": "end",
+                "time": 209159
+            },
+            {
+                "word": "of",
+                "time": 209250
+            },
+            {
+                "word": "the",
+                "time": 209370
+            },
+            {
+                "word": "course",
+                "time": 209609
+            },
+            {
+                "word": "you'll"
+            }
+        ]
+    },
+    {
+        "start": 209869,
+        "end": 209879,
+        "part": "",
+        "words": [
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 209879,
+        "end": 212749,
+        "part": "and also at the end of the course you'll receive a certificate of completion that",
+        "words": [
+            {
+                "word": "and"
+            },
+            {
+                "word": "also"
+            },
+            {
+                "word": "at"
+            },
+            {
+                "word": "the"
+            },
+            {
+                "word": "end"
+            },
+            {
+                "word": "of"
+            },
+            {
+                "word": "the"
+            },
+            {
+                "word": "course"
+            },
+            {
+                "word": "you'll"
+            },
+            {
+                "word": "receive",
+                "time": 210359
+            },
+            {
+                "word": "a",
+                "time": 210540
+            },
+            {
+                "word": "certificate",
+                "time": 210569
+            },
+            {
+                "word": "of",
+                "time": 211500
+            },
+            {
+                "word": "completion",
+                "time": 212099
+            },
+            {
+                "word": "that"
+            }
+        ]
+    },
+    {
+        "start": 212749,
+        "end": 212759,
+        "part": "receive a certificate of completion that",
+        "words": [
+            {
+                "word": "receive"
+            },
+            {
+                "word": "a"
+            },
+            {
+                "word": "certificate"
+            },
+            {
+                "word": "of"
+            },
+            {
+                "word": "completion"
+            },
+            {
+                "word": "that"
+            }
+        ]
+    },
+    {
+        "start": 212759,
+        "end": 215089,
+        "part": "you can provide your current or future",
+        "words": [
+            {
+                "word": "you",
+                "time": 212849
+            },
+            {
+                "word": "can",
+                "time": 213000
+            },
+            {
+                "word": "provide",
+                "time": 213479
+            },
+            {
+                "word": "your",
+                "time": 213720
+            },
+            {
+                "word": "current",
+                "time": 214199
+            },
+            {
+                "word": "or",
+                "time": 214349
+            },
+            {
+                "word": "future"
+            }
+        ]
+    },
+    {
+        "start": 215089,
+        "end": 215099,
+        "part": "",
+        "words": [
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 215099,
+        "end": 217610,
+        "part": "you can provide your current or future employer so if you want to enroll click",
+        "words": [
+            {
+                "word": "you"
+            },
+            {
+                "word": "can"
+            },
+            {
+                "word": "provide"
+            },
+            {
+                "word": "your"
+            },
+            {
+                "word": "current"
+            },
+            {
+                "word": "or"
+            },
+            {
+                "word": "future"
+            },
+            {
+                "word": "employer",
+                "time": 215669
+            },
+            {
+                "word": "so",
+                "time": 216479
+            },
+            {
+                "word": "if",
+                "time": 216599
+            },
+            {
+                "word": "you",
+                "time": 216659
+            },
+            {
+                "word": "want",
+                "time": 216810
+            },
+            {
+                "word": "to",
+                "time": 216870
+            },
+            {
+                "word": "enroll",
+                "time": 216989
+            },
+            {
+                "word": "click"
+            }
+        ]
+    },
+    {
+        "start": 217610,
+        "end": 217620,
+        "part": "employer so if you want to enroll click",
+        "words": [
+            {
+                "word": "employer"
+            },
+            {
+                "word": "so"
+            },
+            {
+                "word": "if"
+            },
+            {
+                "word": "you"
+            },
+            {
+                "word": "want"
+            },
+            {
+                "word": "to"
+            },
+            {
+                "word": "enroll"
+            },
+            {
+                "word": "click"
+            }
+        ]
+    },
+    {
+        "start": 217620,
+        "end": 219439,
+        "part": "on the link in the video description I",
+        "words": [
+            {
+                "word": "on",
+                "time": 217799
+            },
+            {
+                "word": "the",
+                "time": 217919
+            },
+            {
+                "word": "link",
+                "time": 218129
+            },
+            {
+                "word": "in",
+                "time": 218310
+            },
+            {
+                "word": "the",
+                "time": 218459
+            },
+            {
+                "word": "video",
+                "time": 218729
+            },
+            {
+                "word": "description",
+                "time": 218759
+            },
+            {
+                "word": "i"
+            }
+        ]
+    },
+    {
+        "start": 219439,
+        "end": 219449,
+        "part": "",
+        "words": [
+            {
+                "word": ""
+            }
+        ]
+    }
+]

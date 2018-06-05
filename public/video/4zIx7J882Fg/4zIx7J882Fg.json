@@ -1,0 +1,1945 @@
+[
+    {
+        "start": 240,
+        "end": 3949,
+        "part": "hello this is reminder pro the sweet",
+        "words": [
+            {
+                "word": "hello",
+                "time": 900
+            },
+            {
+                "word": "this",
+                "time": 1829
+            },
+            {
+                "word": "is",
+                "time": 1890
+            },
+            {
+                "word": "reminder",
+                "time": 2790
+            },
+            {
+                "word": "pro",
+                "time": 3030
+            },
+            {
+                "word": "the",
+                "time": 3629
+            },
+            {
+                "word": "sweet"
+            }
+        ]
+    },
+    {
+        "start": 240,
+        "end": 3949,
+        "part": "",
+        "words": [
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 3949,
+        "end": 3959,
+        "part": "hello this is reminder pro the sweet",
+        "words": [
+            {
+                "word": "hello"
+            },
+            {
+                "word": "this"
+            },
+            {
+                "word": "is"
+            },
+            {
+                "word": "reminder"
+            },
+            {
+                "word": "pro"
+            },
+            {
+                "word": "the"
+            },
+            {
+                "word": "sweet"
+            }
+        ]
+    },
+    {
+        "start": 3959,
+        "end": 5840,
+        "part": "little application that lets you know",
+        "words": [
+            {
+                "word": "little",
+                "time": 4140
+            },
+            {
+                "word": "application",
+                "time": 4890
+            },
+            {
+                "word": "that",
+                "time": 5339
+            },
+            {
+                "word": "lets",
+                "time": 5460
+            },
+            {
+                "word": "you",
+                "time": 5670
+            },
+            {
+                "word": "know"
+            }
+        ]
+    },
+    {
+        "start": 5840,
+        "end": 5850,
+        "part": "",
+        "words": [
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 5850,
+        "end": 7849,
+        "part": "little application that lets you know what you need to do and when you need to",
+        "words": [
+            {
+                "word": "little"
+            },
+            {
+                "word": "application"
+            },
+            {
+                "word": "that"
+            },
+            {
+                "word": "lets"
+            },
+            {
+                "word": "you"
+            },
+            {
+                "word": "know"
+            },
+            {
+                "word": "what",
+                "time": 6120
+            },
+            {
+                "word": "you",
+                "time": 6270
+            },
+            {
+                "word": "need",
+                "time": 6420
+            },
+            {
+                "word": "to",
+                "time": 6569
+            },
+            {
+                "word": "do",
+                "time": 6750
+            },
+            {
+                "word": "and",
+                "time": 6990
+            },
+            {
+                "word": "when",
+                "time": 7410
+            },
+            {
+                "word": "you",
+                "time": 7440
+            },
+            {
+                "word": "need",
+                "time": 7740
+            },
+            {
+                "word": "to"
+            }
+        ]
+    },
+    {
+        "start": 7849,
+        "end": 7859,
+        "part": "what you need to do and when you need to",
+        "words": [
+            {
+                "word": "what"
+            },
+            {
+                "word": "you"
+            },
+            {
+                "word": "need"
+            },
+            {
+                "word": "to"
+            },
+            {
+                "word": "do"
+            },
+            {
+                "word": "and"
+            },
+            {
+                "word": "when"
+            },
+            {
+                "word": "you"
+            },
+            {
+                "word": "need"
+            },
+            {
+                "word": "to"
+            }
+        ]
+    },
+    {
+        "start": 7859,
+        "end": 10459,
+        "part": "do it it works pretty simply add your",
+        "words": [
+            {
+                "word": "do",
+                "time": 8010
+            },
+            {
+                "word": "it",
+                "time": 8160
+            },
+            {
+                "word": "it",
+                "time": 8880
+            },
+            {
+                "word": "works",
+                "time": 9150
+            },
+            {
+                "word": "pretty",
+                "time": 9420
+            },
+            {
+                "word": "simply",
+                "time": 9719
+            },
+            {
+                "word": "add",
+                "time": 10230
+            },
+            {
+                "word": "your"
+            }
+        ]
+    },
+    {
+        "start": 10459,
+        "end": 10469,
+        "part": "",
+        "words": [
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 10469,
+        "end": 12950,
+        "part": "do it it works pretty simply add your reminder in the input field and also the",
+        "words": [
+            {
+                "word": "do"
+            },
+            {
+                "word": "it"
+            },
+            {
+                "word": "it"
+            },
+            {
+                "word": "works"
+            },
+            {
+                "word": "pretty"
+            },
+            {
+                "word": "simply"
+            },
+            {
+                "word": "add"
+            },
+            {
+                "word": "your"
+            },
+            {
+                "word": "reminder",
+                "time": 11160
+            },
+            {
+                "word": "in",
+                "time": 11309
+            },
+            {
+                "word": "the",
+                "time": 11429
+            },
+            {
+                "word": "input",
+                "time": 11790
+            },
+            {
+                "word": "field",
+                "time": 11820
+            },
+            {
+                "word": "and",
+                "time": 12269
+            },
+            {
+                "word": "also",
+                "time": 12690
+            },
+            {
+                "word": "the"
+            }
+        ]
+    },
+    {
+        "start": 12950,
+        "end": 12960,
+        "part": "reminder in the input field and also the",
+        "words": [
+            {
+                "word": "reminder"
+            },
+            {
+                "word": "in"
+            },
+            {
+                "word": "the"
+            },
+            {
+                "word": "input"
+            },
+            {
+                "word": "field"
+            },
+            {
+                "word": "and"
+            },
+            {
+                "word": "also"
+            },
+            {
+                "word": "the"
+            }
+        ]
+    },
+    {
+        "start": 12960,
+        "end": 15020,
+        "part": "due date so that way you know when to do",
+        "words": [
+            {
+                "word": "due",
+                "time": 13139
+            },
+            {
+                "word": "date",
+                "time": 13349
+            },
+            {
+                "word": "so",
+                "time": 13590
+            },
+            {
+                "word": "that",
+                "time": 14040
+            },
+            {
+                "word": "way",
+                "time": 14309
+            },
+            {
+                "word": "you",
+                "time": 14429
+            },
+            {
+                "word": "know",
+                "time": 14580
+            },
+            {
+                "word": "when",
+                "time": 14759
+            },
+            {
+                "word": "to",
+                "time": 14910
+            },
+            {
+                "word": "do"
+            }
+        ]
+    },
+    {
+        "start": 15020,
+        "end": 15030,
+        "part": "",
+        "words": [
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 15030,
+        "end": 18740,
+        "part": "due date so that way you know when to do it so let's add a task how about buy a",
+        "words": [
+            {
+                "word": "due"
+            },
+            {
+                "word": "date"
+            },
+            {
+                "word": "so"
+            },
+            {
+                "word": "that"
+            },
+            {
+                "word": "way"
+            },
+            {
+                "word": "you"
+            },
+            {
+                "word": "know"
+            },
+            {
+                "word": "when"
+            },
+            {
+                "word": "to"
+            },
+            {
+                "word": "do"
+            },
+            {
+                "word": "it",
+                "time": 15150
+            },
+            {
+                "word": "so",
+                "time": 15780
+            },
+            {
+                "word": "let's",
+                "time": 15990
+            },
+            {
+                "word": "add",
+                "time": 16170
+            },
+            {
+                "word": "a",
+                "time": 16199
+            },
+            {
+                "word": "task",
+                "time": 16500
+            },
+            {
+                "word": "how",
+                "time": 17250
+            },
+            {
+                "word": "about",
+                "time": 17720
+            },
+            {
+                "word": "buy",
+                "time": 18720
+            },
+            {
+                "word": "a"
+            }
+        ]
+    },
+    {
+        "start": 18740,
+        "end": 18750,
+        "part": "it so let's add a task how about buy a",
+        "words": [
+            {
+                "word": "it"
+            },
+            {
+                "word": "so"
+            },
+            {
+                "word": "let's"
+            },
+            {
+                "word": "add"
+            },
+            {
+                "word": "a"
+            },
+            {
+                "word": "task"
+            },
+            {
+                "word": "how"
+            },
+            {
+                "word": "about"
+            },
+            {
+                "word": "buy"
+            },
+            {
+                "word": "a"
+            }
+        ]
+    },
+    {
+        "start": 18750,
+        "end": 24439,
+        "part": "gallon of milk I'm saying it's going to",
+        "words": [
+            {
+                "word": "gallon",
+                "time": 19410
+            },
+            {
+                "word": "of",
+                "time": 19770
+            },
+            {
+                "word": "milk",
+                "time": 22519
+            },
+            {
+                "word": "i'm",
+                "time": 23519
+            },
+            {
+                "word": "saying",
+                "time": 24090
+            },
+            {
+                "word": "it's",
+                "time": 24269
+            },
+            {
+                "word": "going",
+                "time": 24390
+            },
+            {
+                "word": "to"
+            }
+        ]
+    },
+    {
+        "start": 24439,
+        "end": 24449,
+        "part": "",
+        "words": [
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 24449,
+        "end": 30679,
+        "part": "gallon of milk I'm saying it's going to be due on the 31st of January at 12 p.m.",
+        "words": [
+            {
+                "word": "gallon"
+            },
+            {
+                "word": "of"
+            },
+            {
+                "word": "milk"
+            },
+            {
+                "word": "i'm"
+            },
+            {
+                "word": "saying"
+            },
+            {
+                "word": "it's"
+            },
+            {
+                "word": "going"
+            },
+            {
+                "word": "to"
+            },
+            {
+                "word": "be",
+                "time": 24510
+            },
+            {
+                "word": "due",
+                "time": 24779
+            },
+            {
+                "word": "on",
+                "time": 25789
+            },
+            {
+                "word": "the",
+                "time": 26789
+            },
+            {
+                "word": "31st",
+                "time": 27330
+            },
+            {
+                "word": "of",
+                "time": 27570
+            },
+            {
+                "word": "january",
+                "time": 28019
+            },
+            {
+                "word": "at",
+                "time": 28580
+            },
+            {
+                "word": "12",
+                "time": 29689
+            },
+            {
+                "word": "pm"
+            }
+        ]
+    },
+    {
+        "start": 30679,
+        "end": 30689,
+        "part": "be due on the 31st of January at 12 p.m.",
+        "words": [
+            {
+                "word": "be"
+            },
+            {
+                "word": "due"
+            },
+            {
+                "word": "on"
+            },
+            {
+                "word": "the"
+            },
+            {
+                "word": "31st"
+            },
+            {
+                "word": "of"
+            },
+            {
+                "word": "january"
+            },
+            {
+                "word": "at"
+            },
+            {
+                "word": "12"
+            },
+            {
+                "word": "pm"
+            }
+        ]
+    },
+    {
+        "start": 30689,
+        "end": 35540,
+        "part": "and they're an add to our list of",
+        "words": [
+            {
+                "word": "and",
+                "time": 33649
+            },
+            {
+                "word": "they're",
+                "time": 34649
+            },
+            {
+                "word": "an",
+                "time": 34739
+            },
+            {
+                "word": "add",
+                "time": 34860
+            },
+            {
+                "word": "to",
+                "time": 35100
+            },
+            {
+                "word": "our",
+                "time": 35250
+            },
+            {
+                "word": "list",
+                "time": 35309
+            },
+            {
+                "word": "of"
+            }
+        ]
+    },
+    {
+        "start": 35540,
+        "end": 35550,
+        "part": "",
+        "words": [
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 35550,
+        "end": 38540,
+        "part": "and they're an add to our list of reminders to take care now we could just",
+        "words": [
+            {
+                "word": "and"
+            },
+            {
+                "word": "they're"
+            },
+            {
+                "word": "an"
+            },
+            {
+                "word": "add"
+            },
+            {
+                "word": "to"
+            },
+            {
+                "word": "our"
+            },
+            {
+                "word": "list"
+            },
+            {
+                "word": "of"
+            },
+            {
+                "word": "reminders",
+                "time": 35910
+            },
+            {
+                "word": "to",
+                "time": 36149
+            },
+            {
+                "word": "take",
+                "time": 36360
+            },
+            {
+                "word": "care",
+                "time": 36630
+            },
+            {
+                "word": "now",
+                "time": 37530
+            },
+            {
+                "word": "we",
+                "time": 38219
+            },
+            {
+                "word": "could",
+                "time": 38430
+            },
+            {
+                "word": "just"
+            }
+        ]
+    },
+    {
+        "start": 38540,
+        "end": 38550,
+        "part": "reminders to take care now we could just",
+        "words": [
+            {
+                "word": "reminders"
+            },
+            {
+                "word": "to"
+            },
+            {
+                "word": "take"
+            },
+            {
+                "word": "care"
+            },
+            {
+                "word": "now"
+            },
+            {
+                "word": "we"
+            },
+            {
+                "word": "could"
+            },
+            {
+                "word": "just"
+            }
+        ]
+    },
+    {
+        "start": 38550,
+        "end": 40700,
+        "part": "have number due dates but the",
+        "words": [
+            {
+                "word": "have",
+                "time": 38760
+            },
+            {
+                "word": "number",
+                "time": 39180
+            },
+            {
+                "word": "due",
+                "time": 39360
+            },
+            {
+                "word": "dates",
+                "time": 39570
+            },
+            {
+                "word": "but",
+                "time": 40260
+            },
+            {
+                "word": "the"
+            }
+        ]
+    },
+    {
+        "start": 40700,
+        "end": 40710,
+        "part": "",
+        "words": [
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 40710,
+        "end": 42920,
+        "part": "have number due dates but the application also decides to make these",
+        "words": [
+            {
+                "word": "have"
+            },
+            {
+                "word": "number"
+            },
+            {
+                "word": "due"
+            },
+            {
+                "word": "dates"
+            },
+            {
+                "word": "but"
+            },
+            {
+                "word": "the"
+            },
+            {
+                "word": "application",
+                "time": 41309
+            },
+            {
+                "word": "also",
+                "time": 41730
+            },
+            {
+                "word": "decides",
+                "time": 42090
+            },
+            {
+                "word": "to",
+                "time": 42570
+            },
+            {
+                "word": "make",
+                "time": 42750
+            },
+            {
+                "word": "these"
+            }
+        ]
+    },
+    {
+        "start": 42920,
+        "end": 42930,
+        "part": "application also decides to make these",
+        "words": [
+            {
+                "word": "application"
+            },
+            {
+                "word": "also"
+            },
+            {
+                "word": "decides"
+            },
+            {
+                "word": "to"
+            },
+            {
+                "word": "make"
+            },
+            {
+                "word": "these"
+            }
+        ]
+    },
+    {
+        "start": 42930,
+        "end": 44869,
+        "part": "dates more readable and friendly to",
+        "words": [
+            {
+                "word": "dates",
+                "time": 43230
+            },
+            {
+                "word": "more",
+                "time": 43590
+            },
+            {
+                "word": "readable",
+                "time": 43980
+            },
+            {
+                "word": "and",
+                "time": 44280
+            },
+            {
+                "word": "friendly",
+                "time": 44700
+            },
+            {
+                "word": "to"
+            }
+        ]
+    },
+    {
+        "start": 44869,
+        "end": 44879,
+        "part": "",
+        "words": [
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 44879,
+        "end": 47690,
+        "part": "dates more readable and friendly to human interpretation another great thing",
+        "words": [
+            {
+                "word": "dates"
+            },
+            {
+                "word": "more"
+            },
+            {
+                "word": "readable"
+            },
+            {
+                "word": "and"
+            },
+            {
+                "word": "friendly"
+            },
+            {
+                "word": "to"
+            },
+            {
+                "word": "human",
+                "time": 45270
+            },
+            {
+                "word": "interpretation",
+                "time": 46280
+            },
+            {
+                "word": "another",
+                "time": 47280
+            },
+            {
+                "word": "great",
+                "time": 47520
+            },
+            {
+                "word": "thing"
+            }
+        ]
+    },
+    {
+        "start": 47690,
+        "end": 47700,
+        "part": "human interpretation another great thing",
+        "words": [
+            {
+                "word": "human"
+            },
+            {
+                "word": "interpretation"
+            },
+            {
+                "word": "another"
+            },
+            {
+                "word": "great"
+            },
+            {
+                "word": "thing"
+            }
+        ]
+    },
+    {
+        "start": 47700,
+        "end": 49970,
+        "part": "about this application is we don't have",
+        "words": [
+            {
+                "word": "about",
+                "time": 47879
+            },
+            {
+                "word": "this",
+                "time": 48120
+            },
+            {
+                "word": "application",
+                "time": 48780
+            },
+            {
+                "word": "is",
+                "time": 48960
+            },
+            {
+                "word": "we",
+                "time": 49680
+            },
+            {
+                "word": "don't",
+                "time": 49800
+            },
+            {
+                "word": "have"
+            }
+        ]
+    },
+    {
+        "start": 49970,
+        "end": 49980,
+        "part": "",
+        "words": [
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 49980,
+        "end": 51889,
+        "part": "about this application is we don't have to keep the web app open for it to",
+        "words": [
+            {
+                "word": "about"
+            },
+            {
+                "word": "this"
+            },
+            {
+                "word": "application"
+            },
+            {
+                "word": "is"
+            },
+            {
+                "word": "we"
+            },
+            {
+                "word": "don't"
+            },
+            {
+                "word": "have"
+            },
+            {
+                "word": "to",
+                "time": 50100
+            },
+            {
+                "word": "keep",
+                "time": 50250
+            },
+            {
+                "word": "the",
+                "time": 50399
+            },
+            {
+                "word": "web",
+                "time": 50550
+            },
+            {
+                "word": "app",
+                "time": 50730
+            },
+            {
+                "word": "open",
+                "time": 51210
+            },
+            {
+                "word": "for",
+                "time": 51719
+            },
+            {
+                "word": "it",
+                "time": 51809
+            },
+            {
+                "word": "to"
+            }
+        ]
+    },
+    {
+        "start": 51889,
+        "end": 51899,
+        "part": "to keep the web app open for it to",
+        "words": [
+            {
+                "word": "to"
+            },
+            {
+                "word": "keep"
+            },
+            {
+                "word": "the"
+            },
+            {
+                "word": "web"
+            },
+            {
+                "word": "app"
+            },
+            {
+                "word": "open"
+            },
+            {
+                "word": "for"
+            },
+            {
+                "word": "it"
+            },
+            {
+                "word": "to"
+            }
+        ]
+    },
+    {
+        "start": 51899,
+        "end": 53869,
+        "part": "remember everything it uses browser",
+        "words": [
+            {
+                "word": "remember",
+                "time": 52230
+            },
+            {
+                "word": "everything",
+                "time": 52500
+            },
+            {
+                "word": "it",
+                "time": 53250
+            },
+            {
+                "word": "uses",
+                "time": 53610
+            },
+            {
+                "word": "browser"
+            }
+        ]
+    },
+    {
+        "start": 53869,
+        "end": 53879,
+        "part": "",
+        "words": [
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 53879,
+        "end": 56750,
+        "part": "remember everything it uses browser cookies so if i refresh destroy a",
+        "words": [
+            {
+                "word": "remember"
+            },
+            {
+                "word": "everything"
+            },
+            {
+                "word": "it"
+            },
+            {
+                "word": "uses"
+            },
+            {
+                "word": "browser"
+            },
+            {
+                "word": "cookies",
+                "time": 54420
+            },
+            {
+                "word": "so",
+                "time": 55050
+            },
+            {
+                "word": "if",
+                "time": 55230
+            },
+            {
+                "word": "i",
+                "time": 55350
+            },
+            {
+                "word": "refresh",
+                "time": 55699
+            },
+            {
+                "word": "destroy",
+                "time": 56699
+            },
+            {
+                "word": "a"
+            }
+        ]
+    },
+    {
+        "start": 56750,
+        "end": 56760,
+        "part": "cookies so if i refresh destroy a",
+        "words": [
+            {
+                "word": "cookies"
+            },
+            {
+                "word": "so"
+            },
+            {
+                "word": "if"
+            },
+            {
+                "word": "i"
+            },
+            {
+                "word": "refresh"
+            },
+            {
+                "word": "destroy"
+            },
+            {
+                "word": "a"
+            }
+        ]
+    },
+    {
+        "start": 56760,
+        "end": 58729,
+        "part": "history of reminders so that whenever",
+        "words": [
+            {
+                "word": "history",
+                "time": 57210
+            },
+            {
+                "word": "of",
+                "time": 57239
+            },
+            {
+                "word": "reminders",
+                "time": 57840
+            },
+            {
+                "word": "so",
+                "time": 58320
+            },
+            {
+                "word": "that",
+                "time": 58469
+            },
+            {
+                "word": "whenever"
+            }
+        ]
+    },
+    {
+        "start": 58729,
+        "end": 58739,
+        "part": "",
+        "words": [
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 58739,
+        "end": 60590,
+        "part": "history of reminders so that whenever you revisit them you'll see your same",
+        "words": [
+            {
+                "word": "history"
+            },
+            {
+                "word": "of"
+            },
+            {
+                "word": "reminders"
+            },
+            {
+                "word": "so"
+            },
+            {
+                "word": "that"
+            },
+            {
+                "word": "whenever"
+            },
+            {
+                "word": "you",
+                "time": 58980
+            },
+            {
+                "word": "revisit",
+                "time": 59340
+            },
+            {
+                "word": "them",
+                "time": 59640
+            },
+            {
+                "word": "you'll",
+                "time": 60090
+            },
+            {
+                "word": "see",
+                "time": 60210
+            },
+            {
+                "word": "your",
+                "time": 60359
+            },
+            {
+                "word": "same"
+            }
+        ]
+    },
+    {
+        "start": 60590,
+        "end": 60600,
+        "part": "you revisit them you'll see your same",
+        "words": [
+            {
+                "word": "you"
+            },
+            {
+                "word": "revisit"
+            },
+            {
+                "word": "them"
+            },
+            {
+                "word": "you'll"
+            },
+            {
+                "word": "see"
+            },
+            {
+                "word": "your"
+            },
+            {
+                "word": "same"
+            }
+        ]
+    },
+    {
+        "start": 60600,
+        "end": 63889,
+        "part": "reminders on the page also we can delete",
+        "words": [
+            {
+                "word": "reminders",
+                "time": 61079
+            },
+            {
+                "word": "on",
+                "time": 61260
+            },
+            {
+                "word": "the",
+                "time": 61410
+            },
+            {
+                "word": "page",
+                "time": 62030
+            },
+            {
+                "word": "also",
+                "time": 63030
+            },
+            {
+                "word": "we",
+                "time": 63510
+            },
+            {
+                "word": "can",
+                "time": 63660
+            },
+            {
+                "word": "delete"
+            }
+        ]
+    },
+    {
+        "start": 63889,
+        "end": 63899,
+        "part": "",
+        "words": [
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 63899,
+        "end": 65539,
+        "part": "reminders on the page also we can delete reminders once you've completed them",
+        "words": [
+            {
+                "word": "reminders"
+            },
+            {
+                "word": "on"
+            },
+            {
+                "word": "the"
+            },
+            {
+                "word": "page"
+            },
+            {
+                "word": "also"
+            },
+            {
+                "word": "we"
+            },
+            {
+                "word": "can"
+            },
+            {
+                "word": "delete"
+            },
+            {
+                "word": "reminders",
+                "time": 64409
+            },
+            {
+                "word": "once",
+                "time": 64769
+            },
+            {
+                "word": "you've",
+                "time": 64920
+            },
+            {
+                "word": "completed",
+                "time": 65339
+            },
+            {
+                "word": "them"
+            }
+        ]
+    },
+    {
+        "start": 65539,
+        "end": 65549,
+        "part": "reminders once you've completed them",
+        "words": [
+            {
+                "word": "reminders"
+            },
+            {
+                "word": "once"
+            },
+            {
+                "word": "you've"
+            },
+            {
+                "word": "completed"
+            },
+            {
+                "word": "them"
+            }
+        ]
+    },
+    {
+        "start": 65549,
+        "end": 67399,
+        "part": "let's say I've already finished my",
+        "words": [
+            {
+                "word": "let's",
+                "time": 66180
+            },
+            {
+                "word": "say",
+                "time": 66390
+            },
+            {
+                "word": "i've",
+                "time": 66600
+            },
+            {
+                "word": "already",
+                "time": 66869
+            },
+            {
+                "word": "finished",
+                "time": 67170
+            },
+            {
+                "word": "my"
+            }
+        ]
+    },
+    {
+        "start": 67399,
+        "end": 67409,
+        "part": "",
+        "words": [
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 67409,
+        "end": 70510,
+        "part": "let's say I've already finished my English homework then I just deleted it",
+        "words": [
+            {
+                "word": "let's"
+            },
+            {
+                "word": "say"
+            },
+            {
+                "word": "i've"
+            },
+            {
+                "word": "already"
+            },
+            {
+                "word": "finished"
+            },
+            {
+                "word": "my"
+            },
+            {
+                "word": "english",
+                "time": 67740
+            },
+            {
+                "word": "homework",
+                "time": 68030
+            },
+            {
+                "word": "then",
+                "time": 69030
+            },
+            {
+                "word": "i",
+                "time": 69299
+            },
+            {
+                "word": "just",
+                "time": 69930
+            },
+            {
+                "word": "deleted",
+                "time": 70320
+            },
+            {
+                "word": "it"
+            }
+        ]
+    },
+    {
+        "start": 70510,
+        "end": 70520,
+        "part": "English homework then I just deleted it",
+        "words": [
+            {
+                "word": "english"
+            },
+            {
+                "word": "homework"
+            },
+            {
+                "word": "then"
+            },
+            {
+                "word": "i"
+            },
+            {
+                "word": "just"
+            },
+            {
+                "word": "deleted"
+            },
+            {
+                "word": "it"
+            }
+        ]
+    },
+    {
+        "start": 70520,
+        "end": 73280,
+        "part": "also we can delete reminders all it was",
+        "words": [
+            {
+                "word": "also",
+                "time": 71520
+            },
+            {
+                "word": "we",
+                "time": 71909
+            },
+            {
+                "word": "can",
+                "time": 72030
+            },
+            {
+                "word": "delete",
+                "time": 72240
+            },
+            {
+                "word": "reminders",
+                "time": 72689
+            },
+            {
+                "word": "all",
+                "time": 72869
+            },
+            {
+                "word": "it",
+                "time": 73110
+            },
+            {
+                "word": "was"
+            }
+        ]
+    },
+    {
+        "start": 73280,
+        "end": 73290,
+        "part": "",
+        "words": [
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 73290,
+        "end": 76789,
+        "part": "also we can delete reminders all it was once you've completed everything great",
+        "words": [
+            {
+                "word": "also"
+            },
+            {
+                "word": "we"
+            },
+            {
+                "word": "can"
+            },
+            {
+                "word": "delete"
+            },
+            {
+                "word": "reminders"
+            },
+            {
+                "word": "all"
+            },
+            {
+                "word": "it"
+            },
+            {
+                "word": "was"
+            },
+            {
+                "word": "once",
+                "time": 73830
+            },
+            {
+                "word": "you've",
+                "time": 74010
+            },
+            {
+                "word": "completed",
+                "time": 74369
+            },
+            {
+                "word": "everything",
+                "time": 75799
+            },
+            {
+                "word": "great"
+            }
+        ]
+    },
+    {
+        "start": 76789,
+        "end": 76799,
+        "part": "once you've completed everything great",
+        "words": [
+            {
+                "word": "once"
+            },
+            {
+                "word": "you've"
+            },
+            {
+                "word": "completed"
+            },
+            {
+                "word": "everything"
+            },
+            {
+                "word": "great"
+            }
+        ]
+    },
+    {
+        "start": 76799,
+        "end": 79130,
+        "part": "we learned so much more about react and",
+        "words": [
+            {
+                "word": "we",
+                "time": 77430
+            },
+            {
+                "word": "learned",
+                "time": 77610
+            },
+            {
+                "word": "so",
+                "time": 77880
+            },
+            {
+                "word": "much",
+                "time": 78030
+            },
+            {
+                "word": "more",
+                "time": 78090
+            },
+            {
+                "word": "about",
+                "time": 78479
+            },
+            {
+                "word": "react",
+                "time": 78900
+            },
+            {
+                "word": "and"
+            }
+        ]
+    },
+    {
+        "start": 79130,
+        "end": 79140,
+        "part": "",
+        "words": [
+            {
+                "word": ""
+            }
+        ]
+    },
+    {
+        "start": 79140,
+        "end": 81170,
+        "part": "we learned so much more about react and the awesome redux library when building",
+        "words": [
+            {
+                "word": "we"
+            },
+            {
+                "word": "learned"
+            },
+            {
+                "word": "so"
+            },
+            {
+                "word": "much"
+            },
+            {
+                "word": "more"
+            },
+            {
+                "word": "about"
+            },
+            {
+                "word": "react"
+            },
+            {
+                "word": "and"
+            },
+            {
+                "word": "the",
+                "time": 79290
+            },
+            {
+                "word": "awesome",
+                "time": 79740
+            },
+            {
+                "word": "redux",
+                "time": 80100
+            },
+            {
+                "word": "library",
+                "time": 80580
+            },
+            {
+                "word": "when",
+                "time": 80970
+            },
+            {
+                "word": "building"
+            }
+        ]
+    },
+    {
+        "start": 81170,
+        "end": 81180,
+        "part": "the awesome redux library when building",
+        "words": [
+            {
+                "word": "the"
+            },
+            {
+                "word": "awesome"
+            },
+            {
+                "word": "redux"
+            },
+            {
+                "word": "library"
+            },
+            {
+                "word": "when"
+            },
+            {
+                "word": "building"
+            }
+        ]
+    },
+    {
+        "start": 81180,
+        "end": 83420,
+        "part": "this application I can't wait to get",
+        "words": [
+            {
+                "word": "this",
+                "time": 81390
+            },
+            {
+                "word": "application",
+                "time": 81630
+            },
+            {
+                "word": "i",
+                "time": 82290
+            },
+            {
+                "word": "can't",
+                "time": 82950
+            },
+            {
+                "word": "wait",
+                "time": 83159
+            },
+            {
+                "word": "to",
+                "time": 83310
+            },
+            {
+                "word": "get"
+            }
+        ]
+    },
+    {
+        "start": 83420,
+        "end": 83430,
+        "part": "",
+        "words": [
+            {
+                "word": ""
+            }
+        ]
+    }
+]
