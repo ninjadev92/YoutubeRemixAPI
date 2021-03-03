@@ -21,7 +21,7 @@
     "node-vtt": "^1.1.7",
     "node-webvtt": "^1.0.3",
     "path": "^0.12.7",
-    "pug": "2.0.0-beta11",
+    "pug": "3.0.1",
     "subtitle_scraper": "^1.2.0",
     "video-stitch": "^1.5.0",
     "vtt-to-json": "^0.1.1"
